@@ -9,7 +9,7 @@ import java.io.*;
 /**
  * The class containing the main method.
  *
- * @author {Your Name Here}
+ * @author Ellae and MadelynC05
  * @version {Put Something Here}
  */
 

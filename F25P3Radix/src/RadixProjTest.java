@@ -8,7 +8,7 @@ import student.TestCase;
  * ascii and binary file, sorting both and then checking each one with a file
  * checker.
  *
- * @author {Your Name Here}
+ * @author ellae and madelync05
  * @version {Put Something Here}
  */
 public class RadixProjTest extends TestCase
@@ -35,7 +35,43 @@ public class RadixProjTest extends TestCase
     {
         FileGenerator it = new FileGenerator();
         it.generateFile("input.txt", 1, "b");
+//        String fileName = "input.txt";
+//        try (DataInputStream dis = new DataInputStream(new BufferedInputStream(
+//            new FileInputStream(fileName)))) {
+//
+//            int count = 0;
+//            while (dis.available() >= 4) { // while at least 4 bytes remain
+//                int value = dis.readInt(); // read one 4-byte integer
+//
+//                // Format as 32-bit binary with leading zeros
+//                String binaryString = String.format("%32s", Integer
+//                    .toBinaryString(value)).replace(' ', '0');
+//
+//                System.out.println("Value " + (++count) + ": " + binaryString
+//                    + " (" + value + ")");
+//            }
+//
+//        }
+//        catch (IOException e) {
+//            e.printStackTrace();
+//        }
         assertFalse(fileChecker.checkFile("input.txt"));
         System.out.println("Done testFailSort");
     }
+    /**
+     * pass a sort
+     *
+     * @throws Exception
+     *             either a IOException or FileNotFoundException
+     */
+    public void testPassSort()
+        throws Exception
+    {
+        FileGenerator it = new FileGenerator();
+        it.generateFile("input.txt", 1, "b");
+        RadixProj.main(new String[] { "input.txt", "statsFile.txt" });
+        assertTrue(fileChecker.checkFile("input.txt"));
+        System.out.println("Done testSortPass");
+    }
+    
 }
