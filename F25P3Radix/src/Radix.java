@@ -68,6 +68,7 @@ public class Radix {
          *              add one to count[digit]
          * 3. return stats file some how
          *      may need
+         *      probably not tho
          *      1. count in for amount and size of memory pool
          *      2. count int for read
          *      3. count for write
