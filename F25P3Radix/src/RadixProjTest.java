@@ -73,5 +73,50 @@ public class RadixProjTest extends TestCase
         assertTrue(fileChecker.checkFile("input.txt"));
         System.out.println("Done testSortPass");
     }
+    /**
+     * pass a sort type A
+     *
+     * @throws Exception
+     *             either a IOException or FileNotFoundException
+     */
+    public void testPassSortTypeA()
+        throws Exception
+    {
+        FileGenerator it = new FileGenerator();
+        it.generateFile("input.txt", 1, "a");
+        RadixProj.main(new String[] { "input.txt", "statsFile.txt" });
+        assertTrue(fileChecker.checkFile("input.txt"));
+        System.out.println("Done testPassSortTypeA");
+    }
+    /**
+     * pass a sort type A with lots of vars
+     *
+     * @throws Exception
+     *             either a IOException or FileNotFoundException
+     */
+    public void testPassSortTypeALong()
+        throws Exception
+    {
+        FileGenerator it = new FileGenerator();
+        it.generateFile("input.txt", 3, "a");
+        RadixProj.main(new String[] { "input.txt", "statsFile.txt" });
+        assertTrue(fileChecker.checkFile("input.txt"));
+        System.out.println("Done testPassSortTypeA");
+    }
+    /**
+     * pass a sort
+     *
+     * @throws Exception
+     *             either a IOException or FileNotFoundException
+     */
+    public void testPassSortLong()
+        throws Exception
+    {
+        FileGenerator it = new FileGenerator();
+        it.generateFile("input.txt", 4, "b");
+        RadixProj.main(new String[] { "input.txt", "statsFile.txt" });
+        assertTrue(fileChecker.checkFile("input.txt"));
+        System.out.println("Done testSortPass");
+    }
     
 }

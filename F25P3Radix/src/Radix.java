@@ -13,25 +13,25 @@ public class Radix {
     /**
      * creates a byte buffer object to act as the memory pool?
      */
-    ByteBuffer byteBuffer = ByteBuffer.allocate(900000);
+    private ByteBuffer byteBuffer = ByteBuffer.allocate(900000);
     /**
      * the file to be sorted
      */
-    RandomAccessFile file;
+    private RandomAccessFile file;
     /**
      * the print writer to write in the stats file
      * (maybe change name to stats or something)
      */
-    PrintWriter writer;
+    private PrintWriter writer;
     /**
      * maybe allowed maybe not ints
      */
-    int sizeOfBytes=0;
-    int numberOfBlocks=0;
-    int sizeOfBlocks=0;
-    int diskReads=0;
-    int diskWrites = 0; 
-    int timeTook=0; //no clue how to implement this
+//    private int sizeOfBytes=0;
+    private int numberOfBlocks=0;
+//    private int sizeOfBlocks=0;
+//    private int diskReads=0;
+//    private int diskWrites = 0; 
+//    private int timeTook=0; //no clue how to implement this
     /**
      * Create a new Radix object.
      * @param theFile The RandomAccessFile to be sorted
@@ -99,14 +99,14 @@ public class Radix {
            *              place in the output[count[digit]]
            *              add one to count[digit]
         */
-           for(int i =1; i<1000000000; i=i*10) {
+           for(int i =1; i<1000000001; i=i*10) {
                values=sortDigit(values, numberOfBlocks, i);
-               for (int v : values) {
-                   System.out.println(v+" values at: "+i);
-               }
+//               for (int v : values) {
+//                   System.out.println(v+" values at: "+i);
+//               }
            }
-           int startIndex = 0; // overwrite starting at 3rd int (0-based)
-           file.seek(startIndex * 4L); // 4 bytes per int
+           int startIndex = 0;
+           file.seek(startIndex * 4L);
 
            for (int n : values) {
                file.writeInt(n);
