@@ -73,6 +73,12 @@ public class Radix {
          *      2. count int for read
          *      3. count for write
          *      4. somehow determine time took?
+         *          this may be done in radix proj
+         */
+        
+        /*
+         *need to redo this without arrays (maybe not for first milestone though)
+         *somewhere it is printing the numbers in the stats file 
          */
         String fileName = "input.txt";
 
