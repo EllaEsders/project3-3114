@@ -69,6 +69,28 @@ public class RadixProjTest extends TestCase
     {
         FileGenerator it = new FileGenerator();
         it.generateFile("input.txt", 1, "b");
+      String fileName = "input.txt";
+      try (DataInputStream dis = new DataInputStream(new BufferedInputStream(
+          new FileInputStream(fileName)))) {
+
+          int count = 0;
+          while (dis.available() >= 4) { // while at least 4 bytes remain
+              int value = dis.readInt(); // read one 4-byte integer
+
+              // Format as 32-bit binary with leading zeros
+              String binaryString = String.format("%32s", Integer
+                  .toBinaryString(value)).replace(' ', '0');
+              FileWriter myWriter = new FileWriter("Hello.txt");
+              myWriter.write("Value " + (++count) + ": " + binaryString
+                  + " (" + value + ")");
+              System.out.println("Value " + (++count) + ": " + binaryString
+                  + " (" + value + ")");
+          }
+
+      }
+      catch (IOException e) {
+          e.printStackTrace();
+      }
         RadixProj.main(new String[] { "input.txt", "statsFile.txt" });
         assertTrue(fileChecker.checkFile("input.txt"));
         System.out.println("Done testSortPass");

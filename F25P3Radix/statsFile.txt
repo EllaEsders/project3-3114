@@ -1591,3 +1591,121 @@ Sorting input.txt of size 12288
 Time is 45
 Sorting input.txt of size 4096
 Time is 14
+Sorting input.txt of size 4096
+Time is 29
+Sorting input.txt of size 4096
+Time is 16
+Sorting input.txt of size 12288
+Time is 47
+Sorting input.txt of size 4096
+Time is 31
+Sorting input.txt of size 4096
+Time is 26
+Sorting input.txt of size 4096
+Time is 16
+Sorting input.txt of size 12288
+Time is 46
+Sorting input.txt of size 4096
+Time is 18
+Sorting input.txt of size 4096
+Time is 27
+Sorting input.txt of size 4096
+Time is 15
+Sorting input.txt of size 12288
+Time is 42
+Sorting input.txt of size 4096
+Time is 15
+Sorting input.txt of size 4096
+Time is 27
+Sorting input.txt of size 4096
+Time is 15
+Sorting input.txt of size 12288
+Time is 42
+Sorting input.txt of size 4096
+Time is 15
+Sorting input.txt of size 4096
+Time is 28
+Sorting input.txt of size 4096
+Time is 17
+Sorting input.txt of size 12288
+Time is 41
+Sorting input.txt of size 4096
+Time is 14
+Sorting input.txt of size 4096
+Time is 35
+Sorting input.txt of size 4096
+Time is 21
+Sorting input.txt of size 12288
+Time is 212
+Sorting input.txt of size 4096
+Time is 23
+Sorting input.txt of size 4096
+Time is 37
+Sorting input.txt of size 4096
+Time is 21
+Sorting input.txt of size 12288
+Time is 87
+Sorting input.txt of size 4096
+Time is 19
+Sorting input.txt of size 4096
+Time is 24
+Sorting input.txt of size 4096
+Time is 11
+Sorting input.txt of size 12288
+Time is 32
+Sorting input.txt of size 4096
+Time is 12
+Sorting input.txt of size 4096
+Time is 24
+Sorting input.txt of size 4096
+Time is 11
+Sorting input.txt of size 12288
+Time is 32
+Sorting input.txt of size 4096
+Time is 9
+Sorting input.txt of size 4096
+Time is 41
+Sorting input.txt of size 4096
+Time is 20
+Sorting input.txt of size 12288
+Time is 251
+Sorting input.txt of size 4096
+Time is 17
+Sorting input.txt of size 4096
+Time is 24
+Sorting input.txt of size 4096
+Time is 26
+Sorting input.txt of size 12288
+Time is 88
+Sorting input.txt of size 4096
+Time is 18
+Sorting input.txt of size 4096
+Time is 26
+Sorting input.txt of size 4096
+Time is 27
+Sorting input.txt of size 12288
+Time is 141
+Sorting input.txt of size 4096
+Time is 25
+Sorting input.txt of size 4096
+Time is 27
+Sorting input.txt of size 4096
+Time is 26
+Sorting input.txt of size 12288
+Time is 126
+Sorting input.txt of size 4096
+Time is 19
+Sorting input.txt of size 4096
+Time is 25
+Sorting input.txt of size 96
+Time is 4
+Sorting input.txt of size 4096
+Time is 47
+Sorting input.txt of size 4096
+Time is 24
+Sorting input.txt of size 4096
+Time is 26
+Sorting input.txt of size 12288
+Time is 130
+Sorting input.txt of size 4096
+Time is 23

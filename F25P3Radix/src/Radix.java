@@ -97,7 +97,7 @@ public class Radix {
             }
             for (int v : values) {
                 numberOfBlocks++;
-                System.out.println(v);
+                System.out.println(v+ " print 1");
             }
            /*
             * right now it is not handling the keys and the input numbers correctly
@@ -112,6 +112,7 @@ public class Radix {
             file.seek(startIndex * 4L);
 
             for (int n : values) {
+                System.out.println(n+ " print 3");
                 file.writeInt(n);
             }
 
