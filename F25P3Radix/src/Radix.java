@@ -105,15 +105,20 @@ public class Radix {
             * also it doesnt use the files reading and writing
             *   counting
             */
-            for (int i = 1; i < 1000000001; i = i * 10) {
-                values = sortDigit(values, numberOfBlocks, i);
-            }
-            int startIndex = 0;
-            file.seek(startIndex * 4L);
-
-            for (int n : values) {
-                System.out.println(n+ " print 3");
-                file.writeInt(n);
+//            for (int i = 1; i < 1000000001; i = i * 10) {
+//                values = sortDigit(values, numberOfBlocks, i);
+//            }
+//            int startIndex = 0;
+//            file.seek(startIndex * 4L);
+//
+//            for (int n : values) {
+//                System.out.println(n+ " print 3");
+//                file.writeInt(n);
+//            }
+            values=sortDigit(values, numberOfBlocks, 1);
+            for (int v : values) {
+              file.writeInt(v);
+                System.out.println(v+ " print 2");
             }
 
         }
