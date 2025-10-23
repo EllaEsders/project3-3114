@@ -84,21 +84,35 @@ public class Radix {
          * though)
          * somewhere it is printing the numbers in the stats file
          */
-        String fileName = "input.txt";
+        //String fileName = "input.txt";
 
-        try (DataInputStream dis = new DataInputStream(new BufferedInputStream(
-            new FileInputStream(fileName)))) {
-            int fileSize = dis.available();
-            int numInts = fileSize / 4;
-            int[] values = new int[numInts];
-
-            for (int i = 0; i < numInts; i++) {
-                values[i] = dis.readInt();
+        //try (DataInputStream dis = new DataInputStream(new BufferedInputStream(
+            //new FileInputStream(fileName)))) {
+            long fileSize = file.length();
+            int numPairs = (int)(fileSize / 8);
+            int[] values = new int[numPairs * 2];
+            file.seek(0);
+            
+            for (int i = 0; i < numPairs; i++) {
+                values[i * 2] = file.readInt();
+                values[i * 2 + 1] = file.readInt();
             }
-            for (int v : values) {
-                numberOfBlocks++;
-                System.out.println(v+ " print 1");
+            
+            int numDigits = 0;
+            
+            for (int i = 0; i < numPairs; i++)
+            {
+                if (values[i*2] > numDigits)
+                {
+                    numDigits = values[i*2];
+                }
             }
+            
+            //for (int v : values) {
+                //numberOfBlocks++;
+                //System.out.println(v+ " print 1");
+            //}
+           
            /*
             * right now it is not handling the keys and the input numbers correctly
             *       so it is inputed as #, 1 #, 2 and its counting 1 and 2 as numbers when they are not 
@@ -115,41 +129,40 @@ public class Radix {
 //                System.out.println(n+ " print 3");
 //                file.writeInt(n);
 //            }
-            values=sortDigit(values, numberOfBlocks, 1);
-            for (int v : values) {
-              file.writeInt(v);
-                System.out.println(v+ " print 2");
+            for (int i = 1; i <= 1000000000; i = 10 * i) {
+                values=sortDigit(values, numPairs, i); 
             }
-
         }
-    }
+    
 
 
     private int[] sortDigit(int[] a, int number, int val) {
-        int[] output = new int[number];
+        int[] output = new int[number * 2];
         int[] count = new int[10];
-        int i, j, rtok;
-        for (i = 0, rtok = 1; i < 10; i++, rtok *= 10) {
+        int j;
             for (j = 0; j < 10; j++) {
                 count[j] = 0;
             }
-            for (j = 0; j < a.length; j++) {
-                count[(a[j] / rtok) % 10]++;
+            for (j = 0; j < number; j++) {
+                count[(a[j * 2] / val) % 10]++;
             }
             int total = number;
             for (j = 9; j >= 0; j--) {
                 total -= count[j];
                 count[j] = total;
             }
-            for (j = 0; j < a.length; j++) {
-                output[count[(a[j] / rtok) % 10]] = a[j];
-                count[(a[j] / rtok) % 10] = count[(a[j] / rtok) % 10] + 1;
+            for (j = 0; j < number; j++) {
+                int key = a[j * 2];
+                int value = a[j * 2 + 1];
+                
+                output[count[(key / val) % 10]*2] = key;
+                output[count[(key / val) % 10]*2 + 1] = value;
+                count[(key / val) % 10]++;
             }
-            for (j = 0; j < a.length; j++) {
+            for (j = 0; j < number; j++) {
                 a[j] = output[j];
             }
-        }
-        return output;
+        return a;
 
     }
 }

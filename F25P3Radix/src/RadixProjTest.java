@@ -69,7 +69,7 @@ public class RadixProjTest extends TestCase
     {
         FileGenerator it = new FileGenerator();
         it.generateFile("input.txt", 1, "b");
-      String fileName = "input.txt";
+      //String fileName = "input.txt";
 //      DataInputStream in = new DataInputStream(new BufferedInputStream(new FileInputStream(
 //          fileName)));
 //      try (DataInputStream dis = new DataInputStream(new BufferedInputStream(
@@ -93,7 +93,7 @@ public class RadixProjTest extends TestCase
 //      catch (IOException e) {
 //          e.printStackTrace();
 //      }
-        RandomAccessFile testFile = new RandomAccessFile("input.txt", "rw");
+        //RandomAccessFile testFile = new RandomAccessFile("input.txt", "rw");
         RadixProj.main(new String[] { "input.txt", "statsFile.txt" });
         assertTrue(fileChecker.checkFile("input.txt"));
         System.out.println("Done testSortPass");
