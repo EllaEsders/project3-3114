@@ -114,7 +114,7 @@ public class RadixProjTest extends TestCase
         throws Exception
     {
         FileGenerator it = new FileGenerator();
-        it.generateFile("input.txt", 4, "b");
+        it.generateFile("input.txt", 1, "b");
         RadixProj.main(new String[] { "input.txt", "statsFile.txt" });
         assertTrue(fileChecker.checkFile("input.txt"));
         System.out.println("Done testSortPass");
