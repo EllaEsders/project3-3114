@@ -1,75 +1,100 @@
 Sorting input.bin of size 4096
-Memory Blocks: 512 of size 4096
+Memory Blocks: 256 of size 4096
+Disk reads: 1
+Disk writes: 1
+Time is 81
+Sorting input.bin of size 4096
+Memory Blocks: 256 of size 4096
 Disk reads: 1
 Disk writes: 1
 Time is 60
 Sorting input.bin of size 4096
-Memory Blocks: 512 of size 4096
-Disk reads: 1
-Disk writes: 1
-Time is 42
-Sorting input.bin of size 4096
-Memory Blocks: 512 of size 4096
-Disk reads: 1
-Disk writes: 1
-Time is 38
-Sorting input.bin of size 12288
-Memory Blocks: 1536 of size 12288
-Disk reads: 1
-Disk writes: 1
-Time is 103
-Sorting input.bin of size 4096
-Memory Blocks: 512 of size 4096
-Disk reads: 1
-Disk writes: 1
-Time is 38
-Sorting input.bin of size 4096
-Memory Blocks: 512 of size 4096
-Disk reads: 1
-Disk writes: 1
-Time is 53
-Sorting input.bin of size 4096
-Memory Blocks: 512 of size 4096
-Disk reads: 1
-Disk writes: 1
-Time is 37
-Sorting input.bin of size 4096
-Memory Blocks: 512 of size 4096
-Disk reads: 1
-Disk writes: 1
-Time is 36
-Sorting input.bin of size 12288
-Memory Blocks: 1536 of size 12288
-Disk reads: 1
-Disk writes: 1
-Time is 98
-Sorting input.bin of size 4096
-Memory Blocks: 512 of size 4096
-Disk reads: 1
-Disk writes: 1
-Time is 33
-Sorting input.bin of size 4096
 Memory Blocks: 256 of size 4096
 Disk reads: 1
 Disk writes: 1
-Time is 55
-Sorting input.bin of size 4096
-Memory Blocks: 256 of size 4096
-Disk reads: 1
-Disk writes: 1
-Time is 35
-Sorting input.bin of size 4096
-Memory Blocks: 256 of size 4096
-Disk reads: 1
-Disk writes: 1
-Time is 34
+Time is 64
 Sorting input.bin of size 12288
 Memory Blocks: 768 of size 12288
 Disk reads: 1
 Disk writes: 1
-Time is 112
+Time is 154
 Sorting input.bin of size 4096
 Memory Blocks: 256 of size 4096
 Disk reads: 1
 Disk writes: 1
-Time is 38
+Time is 53
+Sorting input.bin of size 4096
+Memory Blocks: 256 of size 4096
+Disk reads: 1
+Disk writes: 1
+Time is 59
+Sorting input.bin of size 4096
+Memory Blocks: 256 of size 4096
+Disk reads: 1
+Disk writes: 1
+Time is 54
+Sorting input.bin of size 4096
+Memory Blocks: 256 of size 4096
+Disk reads: 1
+Disk writes: 1
+Time is 45
+Sorting input.bin of size 12288
+Memory Blocks: 768 of size 12288
+Disk reads: 1
+Disk writes: 1
+Time is 131
+Sorting input.bin of size 4096
+Memory Blocks: 256 of size 4096
+Disk reads: 1
+Disk writes: 1
+Time is 50
+Sorting input.bin of size 4096
+Number of key-value pairs: 512
+Disk reads: 1
+Disk writes: 1
+Time is 54
+Sorting input.bin of size 4096
+Number of key-value pairs: 512
+Disk reads: 1
+Disk writes: 1
+Time is 52
+Sorting input.bin of size 4096
+Number of key-value pairs: 512
+Disk reads: 1
+Disk writes: 1
+Time is 41
+Sorting input.bin of size 12288
+Number of key-value pairs: 1536
+Disk reads: 1
+Disk writes: 1
+Time is 117
+Sorting input.bin of size 4096
+Number of key-value pairs: 512
+Disk reads: 1
+Disk writes: 1
+Time is 39
+Sorting input.bin of size 4096
+Memory Blocks: 512
+Disk reads: 1
+Disk writes: 1
+Time is 57
+Sorting input.bin of size 4096
+Memory Blocks: 512
+Disk reads: 1
+Disk writes: 1
+Time is 42
+Sorting input.bin of size 4096
+Memory Blocks: 512
+Disk reads: 1
+Disk writes: 1
+Time is 50
+Sorting input.bin of size 12288
+Memory Blocks: 1536
+Disk reads: 1
+Disk writes: 1
+Time is 134
+Sorting input.bin of size 4096
+Memory Blocks: 512
+Disk reads: 1
+Disk writes: 1
+Time is 40
