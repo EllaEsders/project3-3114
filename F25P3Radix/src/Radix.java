@@ -108,9 +108,10 @@ public class Radix {
         }
         for (int v : values) {
             numberOfBlocks++;
-            System.out.println(v + " print 1");
+            // System.out.println(v + " print 1");
         }
         diskReads++;
+        numInts=numInts/2;
         writer.println("Memory Blocks: " + numInts + " of size " + fileSize);
         /*
          * right now it is not handling the keys and
@@ -124,24 +125,24 @@ public class Radix {
          * going through every diget
          * its also not prepared to handle large data
          */
-        writer.println("Disk reads: " + diskReads);
-        writer.println("Disk writes: " + diskWrites);
         values = sortDigit(values, numberOfBlocks, 1);
         file = new RandomAccessFile("input.bin", "rw");
+        writer.println("Disk reads: " + diskReads);
+        writer.println("Disk writes: " + diskWrites);
         int key = 0;
         for (int v : values) {
             key = find(v, other);
             file.writeInt(v);
             file.writeInt(key);
-            writer.println("Key: " + v + " Value: " + key);
+            //writer.println("Key: " + v + " Value: " + key);
 
-            System.out.println(key + " key was value is " + v + " print 2");
+            // System.out.println(key + " key was value is " + v + " print 2");
         }
         file = new RandomAccessFile("input.bin", "r");
         while (file.getFilePointer() < file.length()) {
             int k = file.readInt();
             int value = file.readInt();
-            System.out.println("Key: " + k + ", Value: " + value);
+            // System.out.println("Key: " + k + ", Value: " + value);
         }
         file.close();
         writer.flush();
@@ -161,7 +162,7 @@ public class Radix {
         int key = 0;
         for (int i = 0; i < arr.length; i++) {
             if (arr[i] == val) {
-                System.out.println(arr[i] + "here" + arr[i + 1]);
+                // System.out.println(arr[i] + "here" + arr[i + 1]);
                 return arr[i + 1];
             }
         }
