@@ -10,10 +10,11 @@ import java.io.*;
  * @version 1
  */
 public class Radix {
+    private byte[] memoryPool = new byte[900000];
     /**
      * creates a byte buffer object to act as the memory pool?
      */
-
+    private ByteBuffer buffer = ByteBuffer.wrap(memoryPool);
     /**
      * the file to be sorted
      */
@@ -27,10 +28,14 @@ public class Radix {
      * maybe allowed maybe not ints
      */
 // private int sizeOfBytes=0;
-    private int numberOfBlocks = 0;
 // private int sizeOfBlocks=0;
+    private int numberOfBlocks = 0;
     private int diskReads = 0;
     private int diskWrites = 0;
+    
+    private static final int SIZE_OF_BLOCKS = 4096;
+    private static final int SIZE_OF_RECORD = 8;
+    private static final int NUM_OF_RECS_PER_BLOCK = SIZE_OF_BLOCKS/SIZE_OF_RECORD;
 
 // private int timeTook=0; //no clue how to implement this
     /**
@@ -75,12 +80,6 @@ public class Radix {
         writer.println("Disk reads: " + diskReads);
         writer.println("Disk writes: " + diskWrites);
         writer.flush();
-        file.seek(0);
-        while (file.getFilePointer() < file.length()) {
-            int key = file.readInt();
-            int value = file.readInt();
-            System.out.println("Key: " + key + ", Value: " + value);
-        }
     }
 
 
@@ -129,5 +128,54 @@ public class Radix {
             }
         }
         return max;
+    }
+    
+    /**
+     * Helper method to read one block into the memoryPool
+     */
+    private int readBlock(RandomAccessFile f, long position) throws IOException
+    {
+        f.seek(position);
+        int bytesRead = f.read(memoryPool, 0, SIZE_OF_BLOCKS);
+        if (bytesRead > 0)
+        {
+            diskReads++;
+        }
+        return bytesRead;
+    }
+    
+    /**
+     * Helper method that writes one block into file from memoryPool
+     */
+    private void writeBlock(RandomAccessFile f, long position) throws IOException
+    {
+        f.seek(position);
+        f.write(memoryPool, 0, SIZE_OF_BLOCKS);
+        diskWrites++;
+    }
+    
+    /**
+     * Get the key at the index of the record in the memoryPool
+     */
+    private int getKey(int recordIndex)
+    {
+        return buffer.getInt(recordIndex * SIZE_OF_RECORD);
+    }
+    
+    /**
+     * Gets the value at the index of the record in the memoryPool
+     */
+    private int getValue(int recordIndex)
+    {
+        return buffer.getInt(recordIndex * SIZE_OF_RECORD + 4);
+    }
+    
+    /**
+     * Set a record of the key and value pair at the index in the memoryPool
+     */
+    private void setRecord(int recordIndex, int key, int value)
+    {
+        buffer.putInt(recordIndex * SIZE_OF_RECORD, key);
+        buffer.putInt(recordIndex * SIZE_OF_RECORD + 4, value);
     }
 }
