@@ -33,9 +33,9 @@ public class Radix {
     private int diskReads = 0;
     private int diskWrites = 0;
     
-    private static final int SIZE_OF_BLOCKS = 4096;
-    private static final int SIZE_OF_RECORD = 8;
-    private static final int NUM_OF_RECS_PER_BLOCK = SIZE_OF_BLOCKS/SIZE_OF_RECORD;
+//    private static final int SIZE_OF_BLOCKS = 4096;
+//    private static final int SIZE_OF_RECORD = 8;
+//    private static final int NUM_OF_RECS_PER_BLOCK = SIZE_OF_BLOCKS/SIZE_OF_RECORD;
 
 // private int timeTook=0; //no clue how to implement this
     /**
@@ -81,18 +81,26 @@ public class Radix {
         writer.println("Disk writes: " + diskWrites);
         writer.flush();
     }
-
-
+    /**
+     * helper method to sort the arrays
+     * @param keys an int array of keys //will need to be buffer?
+     * @param values an int array of the values
+     */
     private void radixSortKeys(int[] keys, int[] values) {
-        int[] outputKeys = new int[keys.length];
-        int[] outputValues = new int[keys.length];
+        int[] outKeys = new int[keys.length];
+        int[] outVals = new int[keys.length];
         int max = getMax(keys);
         for (int x = 1; max / x > 0; x *= 10) {
-            countSort(keys, values, outputKeys, outputValues, x);
+            countSort(keys, values, outKeys, outVals, x);
         }
     }
-
-
+    /**
+     * sorts the count array in the radix sort
+     * @param keys array of input keys
+     * @param values array of input values
+     * @param outputKeys array of int keys for output
+     * @param outputValues array of output values
+     */
     private void countSort(
         int[] keys,
         int[] values,
@@ -118,8 +126,11 @@ public class Radix {
         System.arraycopy(outputKeys, 0, keys, 0, n);
         System.arraycopy(outputValues, 0, values, 0, n);
     }
-
-
+    /**
+     * gets the max value in the array
+     * @param arr array to be searched
+     * @return int of the max value
+     */
     private int getMax(int[] arr) {
         int max = arr[0];
         for (int val : arr) {
@@ -131,12 +142,12 @@ public class Radix {
     }
     
     /**
-     * Helper method to read one block into the memoryPool
+     * Helper method to read one block into the memoryPool //byte
      */
     private int readBlock(RandomAccessFile f, long position) throws IOException
     {
         f.seek(position);
-        int bytesRead = f.read(memoryPool, 0, SIZE_OF_BLOCKS);
+        int bytesRead = f.read(memoryPool, 0, 4096);
         if (bytesRead > 0)
         {
             diskReads++;
@@ -150,7 +161,7 @@ public class Radix {
     private void writeBlock(RandomAccessFile f, long position) throws IOException
     {
         f.seek(position);
-        f.write(memoryPool, 0, SIZE_OF_BLOCKS);
+        f.write(memoryPool, 0, 4096);
         diskWrites++;
     }
     
@@ -159,7 +170,7 @@ public class Radix {
      */
     private int getKey(int recordIndex)
     {
-        return buffer.getInt(recordIndex * SIZE_OF_RECORD);
+        return buffer.getInt(recordIndex * 8);
     }
     
     /**
@@ -167,7 +178,7 @@ public class Radix {
      */
     private int getValue(int recordIndex)
     {
-        return buffer.getInt(recordIndex * SIZE_OF_RECORD + 4);
+        return buffer.getInt(recordIndex * 12);
     }
     
     /**
@@ -175,7 +186,7 @@ public class Radix {
      */
     private void setRecord(int recordIndex, int key, int value)
     {
-        buffer.putInt(recordIndex * SIZE_OF_RECORD, key);
-        buffer.putInt(recordIndex * SIZE_OF_RECORD + 4, value);
+        buffer.putInt(recordIndex * 8, key);
+        buffer.putInt(recordIndex * 12, value); //8+4
     }
 }

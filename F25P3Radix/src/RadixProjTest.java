@@ -67,29 +67,6 @@ public class RadixProjTest extends TestCase {
         it.generateFile("input.bin", 1, "b");
         String fileName = "input.bin";
         RandomAccessFile myFile = new RandomAccessFile("input.bin", "rw");
-        DataInputStream in = new DataInputStream(new BufferedInputStream(
-            new FileInputStream(fileName)));
-        try (DataInputStream dis = new DataInputStream(new BufferedInputStream(
-            new FileInputStream(fileName)))) {
-
-            int count = 0;
-            while (dis.available() >= 4) { // while at least 4 bytes remain
-                int value = dis.readInt(); // read one 4-byte integer
-
-                // Format as 32-bit binary with leading zeros
-                String binaryString = String.format("%32s", Integer
-                    .toBinaryString(value)).replace(' ', '0');
-                FileWriter myWriter = new FileWriter("Hello.txt");
-                myWriter.write("Value " + (++count) + ": " + binaryString + " ("
-                    + value + ")");
-                System.out.println("Value " + (++count) + ": " + binaryString
-                    + " (" + value + ")");
-            }
-
-        }
-        catch (IOException e) {
-            e.printStackTrace();
-        }
         RandomAccessFile testFile = new RandomAccessFile("input.bin", "rw");
         RadixProj.main(new String[] { "input.bin", "statsFile.txt" });
         assertTrue(fileChecker.checkFile("input.bin"));
@@ -156,5 +133,18 @@ public class RadixProjTest extends TestCase {
         assertTrue(fileChecker.checkFile("input.bin"));
         System.out.println("Done testSortPass");
     }
-
+    /**
+     * pass a sort
+     * 
+     *
+     * @throws Exception
+     *             either a IOException or FileNotFoundException
+     */
+    public void testPassSortRealLong() throws Exception {
+        FileGenerator it = new FileGenerator();
+        it.generateFile("input.bin", 100, "b");
+        RadixProj.main(new String[] { "input.bin", "statsFile.txt" });
+        assertTrue(fileChecker.checkFile("input.bin"));
+        System.out.println("Done testSortPassRealLong");
+    }
 }

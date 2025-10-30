@@ -1,100 +1,55 @@
 Sorting input.bin of size 4096
-Memory Blocks: 256 of size 4096
+Memory Blocks: 512
 Disk reads: 1
 Disk writes: 1
-Time is 81
+Time is 23
 Sorting input.bin of size 4096
-Memory Blocks: 256 of size 4096
-Disk reads: 1
-Disk writes: 1
-Time is 60
-Sorting input.bin of size 4096
-Memory Blocks: 256 of size 4096
-Disk reads: 1
-Disk writes: 1
-Time is 64
-Sorting input.bin of size 12288
-Memory Blocks: 768 of size 12288
-Disk reads: 1
-Disk writes: 1
-Time is 154
-Sorting input.bin of size 4096
-Memory Blocks: 256 of size 4096
-Disk reads: 1
-Disk writes: 1
-Time is 53
-Sorting input.bin of size 4096
-Memory Blocks: 256 of size 4096
-Disk reads: 1
-Disk writes: 1
-Time is 59
-Sorting input.bin of size 4096
-Memory Blocks: 256 of size 4096
-Disk reads: 1
-Disk writes: 1
-Time is 54
-Sorting input.bin of size 4096
-Memory Blocks: 256 of size 4096
-Disk reads: 1
-Disk writes: 1
-Time is 45
-Sorting input.bin of size 12288
-Memory Blocks: 768 of size 12288
-Disk reads: 1
-Disk writes: 1
-Time is 131
-Sorting input.bin of size 4096
-Memory Blocks: 256 of size 4096
-Disk reads: 1
-Disk writes: 1
-Time is 50
-Sorting input.bin of size 4096
-Number of key-value pairs: 512
-Disk reads: 1
-Disk writes: 1
-Time is 54
-Sorting input.bin of size 4096
-Number of key-value pairs: 512
-Disk reads: 1
-Disk writes: 1
-Time is 52
-Sorting input.bin of size 4096
-Number of key-value pairs: 512
+Memory Blocks: 512
 Disk reads: 1
 Disk writes: 1
 Time is 41
-Sorting input.bin of size 12288
-Number of key-value pairs: 1536
-Disk reads: 1
-Disk writes: 1
-Time is 117
-Sorting input.bin of size 4096
-Number of key-value pairs: 512
-Disk reads: 1
-Disk writes: 1
-Time is 39
 Sorting input.bin of size 4096
 Memory Blocks: 512
 Disk reads: 1
 Disk writes: 1
-Time is 57
-Sorting input.bin of size 4096
-Memory Blocks: 512
-Disk reads: 1
-Disk writes: 1
-Time is 42
-Sorting input.bin of size 4096
-Memory Blocks: 512
-Disk reads: 1
-Disk writes: 1
-Time is 50
+Time is 19
 Sorting input.bin of size 12288
 Memory Blocks: 1536
 Disk reads: 1
 Disk writes: 1
-Time is 134
+Time is 69
 Sorting input.bin of size 4096
 Memory Blocks: 512
 Disk reads: 1
 Disk writes: 1
-Time is 40
+Time is 18
+Sorting input.bin of size 4096
+Memory Blocks: 512
+Disk reads: 1
+Disk writes: 1
+Time is 21
+Sorting input.bin of size 4096
+Memory Blocks: 512
+Disk reads: 1
+Disk writes: 1
+Time is 19
+Sorting input.bin of size 4096
+Memory Blocks: 512
+Disk reads: 1
+Disk writes: 1
+Time is 18
+Sorting input.bin of size 12288
+Memory Blocks: 1536
+Disk reads: 1
+Disk writes: 1
+Time is 52
+Sorting input.bin of size 4096
+Memory Blocks: 512
+Disk reads: 1
+Disk writes: 1
+Time is 18
+Sorting input.bin of size 409600
+Memory Blocks: 51200
+Disk reads: 1
+Disk writes: 1
+Time is 1704
