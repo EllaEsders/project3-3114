@@ -5930,3 +5930,33 @@ Block size: 4096
 Disk reads: 8
 Disk writes: 888
 Time is 43
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 8
+Disk writes: 774
+Time is 24
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 8
+Disk writes: 29
+Time is 18
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 8
+Disk writes: 776
+Time is 11
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 8
+Disk writes: 32
+Time is 7
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 8
+Disk writes: 788
+Time is 12
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 8
+Disk writes: 888
+Time is 27

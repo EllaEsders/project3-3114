@@ -5,15 +5,18 @@ import java.io.*;
 // The Radix Sort implementation
 // -------------------------------------------------------------------------
 /**
+ * This class implements Radix Sort on a file using a 900,000-byte memory pool
+ * to sort records. Each record in the file consists of a key and a value.
+ * 
  * @author ellae and Madelync05
  * @version 1
  */
 public class Radix
 {
     /**
-     * The memory pool is a temporary working memory where blocks of data are loaded
-     * onto and many records can be sorted instead of processing them one at a
-     * time. 
+     * The memory pool is a temporary working memory where blocks of data are
+     * loaded onto and many records can be sorted instead of processing them one
+     * at a time.
      */
     private byte[] memoryPool = new byte[900000];
     /**
@@ -48,6 +51,12 @@ public class Radix
     }
 
 
+    /**
+     * Controls the overall radix sort process by creating a temp file, calling
+     * the passes, and swapping the temp and main files.
+     * 
+     * @throws IOException
+     */
     private void radixSort()
         throws IOException
     {
@@ -56,12 +65,11 @@ public class Radix
         fileA = file;
         fileB = new RandomAccessFile(tempFile, "rw");
 
-        long numRecords = file.length() / 8;
         int radix = 256;
-        
+
         for (int pass = 0; pass < 4; pass++)
         {
-            countingPass(fileA, fileB, numRecords, pass, radix);
+            countingPass(fileA, fileB, pass, radix);
             swapFiles();
             fileB.setLength(0);
         }
@@ -81,6 +89,10 @@ public class Radix
     }
 
 
+    /**
+     * Swaps two files by creating a temporary file to house data while
+     * swapping.
+     */
     private void swapFiles()
     {
         RandomAccessFile temp = fileA;
@@ -89,10 +101,22 @@ public class Radix
     }
 
 
+    /**
+     * Performs one pass of the sort process.
+     * 
+     * @param input
+     *            original source file
+     * @param output
+     *            output file where sorted data goes
+     * @param passIndex
+     *            which pass we are currently on
+     * @param radix
+     *            256
+     * @throws IOException
+     */
     private void countingPass(
         RandomAccessFile input,
         RandomAccessFile output,
-        long numRecords,
         int passIndex,
         int radix)
         throws IOException
@@ -170,6 +194,11 @@ public class Radix
     }
 
 
+    /**
+     * Writes the data from the source file into the destination file.
+     * 
+     * @throws IOException
+     */
     private void copyFile(RandomAccessFile source, RandomAccessFile destination)
         throws IOException
     {
