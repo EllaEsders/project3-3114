@@ -53,3 +53,5880 @@ Memory Blocks: 51200
 Disk reads: 1
 Disk writes: 1
 Time is 1704
+Sorting input.bin of size 4096
+Time is 5
+Sorting input.bin of size 4096
+Time is 1
+Sorting input.bin of size 4096
+Time is 0
+Sorting input.bin of size 12288
+Time is 1
+Sorting input.bin of size 4096
+Time is 0
+Sorting input.bin of size 409600
+Time is 1
+Sorting input.bin of size 4096
+Memory Blocks: 512
+Disk reads: 1
+Disk writes: 1
+Time is 49
+Sorting input.bin of size 4096
+Memory Blocks: 512
+Disk reads: 1
+Disk writes: 1
+Time is 43
+Sorting input.bin of size 4096
+Memory Blocks: 512
+Disk reads: 1
+Disk writes: 1
+Time is 43
+Sorting input.bin of size 12288
+Memory Blocks: 1536
+Disk reads: 1
+Disk writes: 1
+Time is 118
+Sorting input.bin of size 4096
+Memory Blocks: 512
+Disk reads: 1
+Disk writes: 1
+Time is 43
+Sorting input.bin of size 409600
+Memory Blocks: 51200
+Disk reads: 1
+Disk writes: 1
+Time is 2982
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 536
+Disk writes: 6144
+Time is 241
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 531
+Disk writes: 4609
+Time is 177
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 536
+Disk writes: 6144
+Time is 228
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 1593
+Disk writes: 13827
+Time is 555
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 536
+Disk writes: 6144
+Time is 240
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 514
+Disk writes: 0
+Time is 16
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 514
+Disk writes: 0
+Time is 4
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 518
+Disk writes: 2
+Time is 7
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 1552
+Disk writes: 5
+Time is 19
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 518
+Disk writes: 2
+Time is 7
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 536
+Disk writes: 6144
+Time is 277
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 531
+Disk writes: 4609
+Time is 170
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 536
+Disk writes: 6144
+Time is 237
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 1593
+Disk writes: 13827
+Time is 520
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 536
+Disk writes: 6144
+Time is 223
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 536
+Disk writes: 12
+Time is 24
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 531
+Disk writes: 10
+Time is 13
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 536
+Disk writes: 12
+Time is 10
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 1593
+Disk writes: 1060
+Time is 46
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 53600
+Disk writes: 47332
+Time is 595
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 536
+Disk writes: 6144
+Time is 227
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 531
+Disk writes: 4609
+Time is 174
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 536
+Disk writes: 6144
+Time is 218
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 1593
+Disk writes: 13827
+Time is 493
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 536
+Disk writes: 6144
+Time is 232
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 514
+Disk writes: 1
+Time is 16
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 515
+Disk writes: 2
+Time is 7
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 514
+Disk writes: 1
+Time is 8
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 1545
+Disk writes: 4
+Time is 18
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 514
+Disk writes: 1
+Time is 6
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 53600
+Disk writes: 120
+Time is 271
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 536
+Disk writes: 6144
+Time is 231
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 531
+Disk writes: 4609
+Time is 150
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 536
+Disk writes: 6144
+Time is 257
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 1593
+Disk writes: 13827
+Time is 528
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 536
+Disk writes: 6144
+Time is 201
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 536
+Disk writes: 6144
+Time is 334
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 531
+Disk writes: 4609
+Time is 178
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 536
+Disk writes: 6144
+Time is 264
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 1593
+Disk writes: 13827
+Time is 564
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 536
+Disk writes: 6144
+Time is 242
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 536
+Disk writes: 6144
+Time is 276
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 531
+Disk writes: 4609
+Time is 191
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 536
+Disk writes: 6144
+Time is 253
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 1593
+Disk writes: 13827
+Time is 568
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 536
+Disk writes: 6144
+Time is 264
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 49
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 522
+Disk writes: 10
+Time is 31
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 30
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 1566
+Disk writes: 12
+Time is 29
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 35
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 52400
+Disk writes: 12
+Time is 305
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 64
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 522
+Disk writes: 10
+Time is 39
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 43
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 1566
+Disk writes: 12
+Time is 40
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 34
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 52400
+Disk writes: 12
+Time is 322
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 326
+Disk writes: 12
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 365
+Disk writes: 12
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 512
+Disk writes: 0
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 512
+Disk writes: 0
+Time is 61
+Time is 18
+Time is 18
+Time is 59
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 522
+Disk writes: 10
+Time is 41
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 519
+Disk writes: 10
+Time is 38
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 501
+Disk writes: 10
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 299
+Disk writes: 10
+Time is 43
+Time is 41
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 4
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 4
+Time is 5
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 466
+Disk writes: 12
+Time is 45
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 91
+Disk writes: 12
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 16
+Disk writes: 12
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 777
+Disk writes: 12
+Time is 31
+Time is 38
+Time is 32
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 79
+Disk writes: 0
+Time is 7
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 125
+Disk writes: 0
+Time is 8
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 384
+Disk writes: 12
+Time is 52
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 89
+Disk writes: 12
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 259
+Disk writes: 12
+Time is 52
+Time is 55
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 259
+Disk writes: 0
+Time is 7
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 615
+Disk writes: 12
+Time is 61
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 5
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 8129
+Disk writes: 12
+Time is 173
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 7650
+Disk writes: 12
+Time is 184
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 8010
+Disk writes: 12
+Time is 190
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 5772
+Disk writes: 0
+Time is 63
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 3
+Disk writes: 0
+Time is 6
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 1557
+Disk writes: 12
+Time is 45
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 58
+Disk writes: 0
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 946
+Disk writes: 12
+Time is 5
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 1009
+Disk writes: 12
+Time is 1761938107030
+Time is 46
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 522
+Disk writes: 12
+Time is 40
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 242
+Disk writes: 12
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 519
+Disk writes: 12
+Time is 44
+Time is 1761938107080
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 419
+Disk writes: 12
+Time is 43
+Sorting input.bin of size 172032
+Block size: 4096
+Disk reads: 51306
+Disk writes: 12
+Time is 1761938107604
+Sorting input.bin of size 155648
+Block size: 4096
+Disk reads: 50638
+Disk writes: 12
+Time is 511
+Sorting input.bin of size 180224
+Block size: 4096
+Disk reads: 49355
+Disk writes: 12
+Time is 512
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 47690
+Disk writes: 12
+Time is 509
+Sorting input.bin of size 8192
+Block size: 4096
+Disk reads: 1561
+Disk writes: 12
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 1420
+Disk writes: 12
+Time is 1761938107655
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 814
+Disk writes: 12
+Time is 38
+Time is 36
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 8
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 153
+Disk writes: 0
+Time is 7
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 4
+Sorting input.bin of size 212992
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 6
+Sorting input.bin of size 98304
+Block size: 4096
+Disk reads: 892
+Disk writes: 12
+Time is 1761938107743
+Sorting input.bin of size 196608
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 5
+Sorting input.bin of size 122880
+Block size: 4096
+Disk reads: 801
+Disk writes: 12
+Time is 84
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 50250
+Disk writes: 12
+Time is 443
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 2
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 48785
+Disk writes: 12
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 51345
+Disk writes: 12
+Time is 1761938108228
+Time is 462
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 47441
+Disk writes: 12
+Time is 462
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 522
+Disk writes: 10
+Time is 31
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 1761938108292
+Time is 7
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 8
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 1557
+Disk writes: 12
+Time is 45
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 1563
+Disk writes: 12
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 1557
+Disk writes: 12
+Time is 1761938108310
+Time is 48
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 459
+Disk writes: 12
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 542
+Disk writes: 12
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 413
+Disk writes: 12
+Time is 38
+Time is 42
+Time is 1761938108367
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 228
+Disk writes: 0
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 245
+Disk writes: 0
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 127
+Disk writes: 0
+Time is 8
+Time is 9
+Time is 1761938108420
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 581
+Disk writes: 0
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 577
+Disk writes: 0
+Time is 12
+Time is 1761938108442
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 1761938108477
+Sorting input.bin of size 221184
+Block size: 4096
+Disk reads: 17
+Disk writes: 0
+Time is 6
+Sorting input.bin of size 131072
+Block size: 4096
+Disk reads: 762
+Disk writes: 12
+Time is 75
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 322
+Disk writes: 0
+Time is 7
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 288
+Disk writes: 12
+Time is 60
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 345
+Disk writes: 0
+Time is 10
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 410
+Disk writes: 12
+Time is 45
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 7
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 9
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 50
+Disk writes: 10
+Time is 37
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 142
+Disk writes: 0
+Time is 6
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 6
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 5
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 23
+Disk writes: 10
+Sorting input.bin of size 8192
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 38
+Time is 5
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 31
+Disk writes: 9
+Time is 32
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 348
+Disk writes: 12
+Time is 42
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 322
+Disk writes: 12
+Time is 61
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 56
+Disk writes: 0
+Time is 8
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 349
+Disk writes: 0
+Time is 9
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 785
+Disk writes: 12
+Time is 55
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 97
+Disk writes: 0
+Time is 11
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 324
+Disk writes: 0
+Time is 7
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 361
+Disk writes: 0
+Time is 7
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 221
+Disk writes: 0
+Time is 8
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 502
+Disk writes: 0
+Time is 9
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 236
+Disk writes: 0
+Time is 6
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 292
+Disk writes: 0
+Time is 6
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 504
+Disk writes: 0
+Time is 8
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 438
+Disk writes: 0
+Time is 10
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 475
+Disk writes: 0
+Time is 9
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 543
+Disk writes: 0
+Time is 9
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 327
+Disk writes: 12
+Time is 70
+Sorting input.bin of size 327680
+Block size: 4096
+Disk reads: 786
+Disk writes: 0
+Time is 10
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 426
+Disk writes: 0
+Time is 13
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 725
+Disk writes: 0
+Time is 10
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 576
+Disk writes: 12
+Time is 67
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 898
+Disk writes: 0
+Time is 13
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 418
+Disk writes: 12
+Time is 77
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 5
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 361
+Disk writes: 0
+Time is 11
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 423
+Disk writes: 0
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 184
+Disk writes: 2
+Time is 29
+Time is 32
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 7
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 6
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 110
+Disk writes: 2
+Time is 13
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 294
+Disk writes: 12
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 334
+Disk writes: 12
+Time is 40
+Time is 40
+Sorting input.bin of size 16384
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 6
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 435
+Disk writes: 12
+Time is 46
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 764
+Disk writes: 12
+Time is 67
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 334
+Disk writes: 12
+Time is 44
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 171
+Disk writes: 10
+Time is 40
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 5
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 134
+Disk writes: 0
+Time is 7
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 25
+Disk writes: 12
+Time is 30
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 66
+Disk writes: 12
+Time is 27
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 5
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 330
+Disk writes: 12
+Time is 42
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 371
+Disk writes: 0
+Time is 6
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 40
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 5
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 4
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 292
+Disk writes: 12
+Time is 39
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 644
+Disk writes: 10
+Time is 33
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 5
+Disk writes: 0
+Time is 5
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 233
+Disk writes: 10
+Time is 29
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 3
+Disk writes: 0
+Time is 6
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 241
+Disk writes: 12
+Time is 47
+Sorting input.bin of size 253952
+Block size: 4096
+Disk reads: 230
+Disk writes: 12
+Time is 71
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 90
+Disk writes: 10
+Time is 31
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 117
+Disk writes: 0
+Time is 6
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 522
+Disk writes: 10
+Time is 28
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 521
+Disk writes: 9
+Time is 30
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 4
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 71
+Disk writes: 0
+Time is 5
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 72
+Disk writes: 12
+Time is 35
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 388
+Disk writes: 0
+Time is 9
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 194
+Disk writes: 12
+Time is 43
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 538
+Disk writes: 12
+Time is 39
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 459
+Disk writes: 12
+Time is 40
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 258
+Disk writes: 0
+Time is 8
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 182
+Disk writes: 0
+Time is 6
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 204
+Disk writes: 0
+Time is 6
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 29
+Disk writes: 12
+Time is 34
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 791
+Disk writes: 10
+Time is 31
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 221
+Disk writes: 10
+Time is 29
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 512
+Disk writes: 0
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 15
+Disk writes: 0
+Time is 6
+Time is 3
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 490
+Disk writes: 12
+Time is 32
+Sorting input.bin of size 106496
+Block size: 4096
+Disk reads: 213
+Disk writes: 12
+Time is 58
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 372
+Disk writes: 12
+Time is 29
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 4
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 355
+Disk writes: 0
+Time is 5
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 512
+Disk writes: 0
+Time is 6
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 523
+Disk writes: 12
+Time is 29
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 512
+Disk writes: 0
+Time is 6
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 490
+Disk writes: 0
+Time is 4
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 258
+Disk writes: 12
+Time is 27
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 321
+Disk writes: 0
+Time is 4
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 51
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 21
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 522
+Disk writes: 10
+Time is 34
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 687
+Disk writes: 12
+Time is 40
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 1566
+Disk writes: 12
+Time is 45
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 302
+Disk writes: 0
+Time is 8
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 400
+Disk writes: 12
+Time is 35
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 512
+Disk writes: 0
+Time is 8
+Sorting input.bin of size 139264
+Block size: 4096
+Disk reads: 51200
+Disk writes: 0
+Time is 273
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 5
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 71
+Disk writes: 0
+Time is 6
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 1563
+Disk writes: 0
+Time is 7
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 52205
+Disk writes: 12
+Time is 371
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 42
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 522
+Disk writes: 10
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 522
+Disk writes: 10
+Time is 25
+Time is 24
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 520
+Disk writes: 10
+Time is 26
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 522
+Disk writes: 10
+Time is 28
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 2
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 3
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 523
+Disk writes: 12
+Time is 34
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 37
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 51657
+Disk writes: 12
+Time is 313
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 365
+Disk writes: 0
+Time is 6
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 275
+Disk writes: 0
+Time is 6
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 523
+Disk writes: 12
+Time is 45
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 207
+Disk writes: 0
+Time is 6
+Sorting input.bin of size 8192
+Block size: 4096
+Disk reads: 250
+Disk writes: 0
+Time is 4
+Sorting input.bin of size 8192
+Block size: 4096
+Disk reads: 205
+Disk writes: 12
+Time is 33
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 309
+Disk writes: 0
+Time is 6
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 988
+Disk writes: 0
+Time is 7
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 361
+Disk writes: 12
+Time is 35
+Sorting input.bin of size 819200
+Block size: 4096
+Disk reads: 102810
+Disk writes: 12
+Time is 576
+Sorting input.bin of size 360448
+Block size: 4096
+Disk reads: 99019
+Disk writes: 12
+Time is 595
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 6
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 3
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 1
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 1894
+Disk writes: 0
+Time is 10
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 3
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 2
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 5571
+Disk writes: 12
+Time is 93
+Sorting input.bin of size 8192
+Block size: 4096
+Disk reads: 339
+Disk writes: 0
+Time is 10
+Sorting input.bin of size 8192
+Block size: 4096
+Disk reads: 1047
+Disk writes: 12
+Time is 44
+Sorting input.bin of size 8192
+Block size: 4096
+Disk reads: 672
+Disk writes: 0
+Time is 8
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 259
+Disk writes: 0
+Time is 6
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 179
+Disk writes: 0
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 291
+Disk writes: 10
+Time is 5
+Time is 26
+Sorting input.bin of size 8192
+Block size: 4096
+Disk reads: 1024
+Disk writes: 0
+Time is 10
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 1024
+Disk writes: 0
+Time is 7
+Sorting input.bin of size 8192
+Block size: 4096
+Disk reads: 1146
+Disk writes: 12
+Time is 41
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 1564
+Disk writes: 12
+Time is 32
+Sorting input.bin of size 8192
+Block size: 4096
+Disk reads: 1341
+Disk writes: 0
+Time is 8
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 1097
+Disk writes: 10
+Time is 49
+Sorting input.bin of size 819200
+Block size: 4096
+Disk reads: 1809
+Disk writes: 0
+Time is 13
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 522
+Disk writes: 1
+Time is 29
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 24
+Disk writes: 0
+Time is 4
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 168
+Disk writes: 12
+Time is 34
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 288
+Disk writes: 0
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 521
+Disk writes: 10
+Time is 29
+Time is 9
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 2
+Time is 3
+Sorting input.bin of size 319488
+Block size: 4096
+Disk reads: 51546
+Disk writes: 12
+Time is 335
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 48296
+Disk writes: 12
+Time is 334
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 2
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 2
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 3
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 31
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 51770
+Disk writes: 12
+Time is 295
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 44008
+Disk writes: 12
+Time is 341
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 392
+Disk writes: 12
+Time is 39
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 1566
+Disk writes: 12
+Time is 26
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 37
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 509
+Disk writes: 12
+Time is 40
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 525
+Disk writes: 10
+Time is 25
+Sorting input.bin of size 24576
+Block size: 4096
+Disk reads: 4170
+Disk writes: 12
+Time is 62
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 14426
+Disk writes: 12
+Time is 108
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 33298
+Disk writes: 12
+Time is 241
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 51435
+Disk writes: 12
+Time is 427
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 39984
+Disk writes: 12
+Time is 264
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 62
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 12
+Disk writes: 12
+Time is 65
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 521
+Disk writes: 10
+Time is 40
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 9
+Disk writes: 10
+Time is 42
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 523
+Disk writes: 12
+Time is 39
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 12
+Disk writes: 12
+Time is 42
+Sorting input.bin of size 24576
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 4
+Sorting input.bin of size 24576
+Block size: 4096
+Disk reads: 106
+Disk writes: 12
+Time is 31
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 582
+Disk writes: 0
+Time is 9
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 63
+Disk writes: 10
+Time is 42
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 51548
+Disk writes: 12
+Time is 364
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 816
+Disk writes: 12
+Time is 397
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 36
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 1
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 38
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 5
+Time is 2
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 623
+Disk writes: 12
+Time is 35
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 6
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 1058
+Disk writes: 0
+Time is 8
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 1657
+Disk writes: 12
+Time is 69
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 333
+Disk writes: 12
+Time is 35
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 52159
+Disk writes: 12
+Time is 306
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 53812
+Disk writes: 12
+Time is 477
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 55
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 3
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 42
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 3
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 34
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 52400
+Disk writes: 12
+Time is 338
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 601
+Disk writes: 12
+Time is 66
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 585
+Disk writes: 17
+Time is 37
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 601
+Disk writes: 12
+Time is 51
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 1755
+Disk writes: 33
+Time is 58
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 601
+Disk writes: 12
+Time is 39
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 12
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 4
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 1322
+Disk writes: 12
+Time is 53
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 2360
+Disk writes: 12
+Time is 66
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 44725
+Disk writes: 12
+Time is 480
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 46
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 51310
+Disk writes: 12
+Time is 418
+Sorting input.bin of size 221184
+Block size: 4096
+Disk reads: 51444
+Disk writes: 12
+Time is 435
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 522
+Disk writes: 10
+Time is 28
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 35
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 1566
+Disk writes: 12
+Time is 38
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 36
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 52400
+Disk writes: 12
+Time is 326
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 42
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 522
+Disk writes: 10
+Time is 30
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 42
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 1566
+Disk writes: 12
+Time is 31
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 33
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 52400
+Disk writes: 12
+Time is 348
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 39
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 522
+Disk writes: 10
+Time is 30
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 34
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 1548
+Disk writes: 10
+Time is 34
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 35
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 51311
+Disk writes: 12
+Time is 268
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 40
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 522
+Disk writes: 10
+Time is 31
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 39
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 1566
+Disk writes: 12
+Time is 40
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 32
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 52400
+Disk writes: 12
+Time is 308
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 4
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 4
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 1092
+Disk writes: 0
+Time is 14
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 125
+Disk writes: 0
+Time is 5
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 3211
+Disk writes: 8
+Time is 132
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 522
+Disk writes: 10
+Time is 35
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 1638
+Disk writes: 12
+Time is 47
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 444
+Disk writes: 0
+Time is 10
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 1566
+Disk writes: 12
+Time is 42
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 522
+Disk writes: 12
+Time is 42
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 523
+Disk writes: 12
+Time is 47
+Sorting input.bin of size 114688
+Block size: 4096
+Disk reads: 51320
+Disk writes: 12
+Time is 362
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 51285
+Disk writes: 12
+Time is 353
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 33
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 1566
+Disk writes: 12
+Time is 39
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 1566
+Disk writes: 12
+Time is 33
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 1198
+Disk writes: 0
+Time is 10
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 37
+Disk writes: 0
+Time is 4
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 451
+Disk writes: 10
+Time is 32
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 514
+Disk writes: 2
+Time is 13
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 1
+Disk writes: 0
+Time is 6
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 341
+Disk writes: 0
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 111
+Disk writes: 12
+Time is 8
+Time is 33
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 514
+Disk writes: 2
+Time is 12
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 252
+Disk writes: 1
+Time is 8
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 1
+Disk writes: 12
+Time is 45
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 2
+Disk writes: 10
+Time is 27
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 1
+Disk writes: 12
+Time is 33
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 4
+Disk writes: 12
+Time is 35
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 1
+Disk writes: 12
+Time is 29
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 1
+Disk writes: 12
+Time is 291
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 13
+Disk writes: 12
+Time is 42
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 11
+Disk writes: 10
+Time is 23
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 13
+Disk writes: 12
+Time is 29
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 31
+Disk writes: 12
+Time is 38
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 13
+Disk writes: 12
+Time is 38
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 1201
+Disk writes: 12
+Time is 312
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 32
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 522
+Disk writes: 10
+Time is 21
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 27
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 1566
+Disk writes: 12
+Time is 32
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 30
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 52400
+Disk writes: 12
+Time is 292
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 27
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 522
+Disk writes: 10
+Time is 24
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 28
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 1566
+Disk writes: 12
+Time is 35
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 37
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 52400
+Disk writes: 12
+Time is 297
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 5
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 2
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 3
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 3
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 2
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 2
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 33
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 522
+Disk writes: 10
+Time is 21
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 34
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 1566
+Disk writes: 12
+Time is 36
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 31
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 52400
+Disk writes: 12
+Time is 255
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 35
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 522
+Disk writes: 10
+Time is 21
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 31
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 1566
+Disk writes: 12
+Time is 31
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 33
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 52400
+Disk writes: 12
+Time is 287
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 26
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 521
+Disk writes: 9
+Time is 21
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 32
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 1563
+Disk writes: 9
+Time is 31
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 30
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 52400
+Disk writes: 12
+Time is 300
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 26
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 29
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 38
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 52400
+Disk writes: 12
+Time is 364
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 1
+Time is 32
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 522
+Disk writes: 2
+Time is 18
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 1
+Time is 25
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 1566
+Disk writes: 4
+Time is 32
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 1
+Time is 33
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 52400
+Disk writes: 1
+Time is 306
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 512
+Disk writes: 0
+Time is 8
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 512
+Disk writes: 0
+Time is 4
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 512
+Disk writes: 0
+Time is 8
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 1536
+Disk writes: 0
+Time is 10
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 512
+Disk writes: 0
+Time is 4
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 51200
+Disk writes: 0
+Time is 197
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 522
+Disk writes: 10
+Time is 43
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 522
+Disk writes: 10
+Time is 33
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 41
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 1566
+Disk writes: 12
+Time is 29
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 28
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 52200
+Disk writes: 109
+Time is 248
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 35
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 521
+Disk writes: 9
+Time is 25
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 31
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 1563
+Disk writes: 9
+Time is 29
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 24
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 52400
+Disk writes: 12
+Time is 338
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 44
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 37
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 34
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 1572
+Disk writes: 12
+Time is 36
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 28
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 52400
+Disk writes: 12
+Time is 271
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 512
+Disk writes: 12
+Time is 42
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 513
+Disk writes: 10
+Time is 29
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 512
+Disk writes: 12
+Time is 28
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 1539
+Disk writes: 12
+Time is 30
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 512
+Disk writes: 12
+Time is 26
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 51200
+Disk writes: 12
+Time is 256
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 522
+Disk writes: 10
+Time is 28
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 1566
+Disk writes: 12
+Time is 33
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 35
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 40
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 522
+Disk writes: 10
+Time is 24
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 30
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 1566
+Disk writes: 12
+Time is 28
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 25
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 52400
+Disk writes: 12
+Time is 253
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 28
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 522
+Disk writes: 10
+Time is 23
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 26
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 1566
+Disk writes: 12
+Time is 25
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 24
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 52400
+Disk writes: 12
+Time is 250
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 29
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 522
+Disk writes: 10
+Time is 26
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 30
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 1566
+Disk writes: 12
+Time is 29
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 26
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 52400
+Disk writes: 12
+Time is 263
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 40
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 1
+Disk writes: 10
+Time is 24
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 33
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 1
+Disk writes: 12
+Time is 25
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 26
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 52400
+Disk writes: 12
+Time is 288
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 35
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 521
+Disk writes: 10
+Time is 25
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 29
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 1563
+Disk writes: 12
+Time is 29
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 27
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 52400
+Disk writes: 12
+Time is 276
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 0
+Time is 31
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 522
+Disk writes: 1
+Time is 27
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 0
+Time is 28
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 1566
+Disk writes: 3
+Time is 33
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 0
+Time is 31
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 52400
+Disk writes: 0
+Time is 298
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 512
+Disk writes: 12
+Time is 34
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 513
+Disk writes: 10
+Time is 30
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 512
+Disk writes: 12
+Time is 37
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 1539
+Disk writes: 12
+Time is 30
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 512
+Disk writes: 12
+Time is 27
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 51200
+Disk writes: 12
+Time is 246
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 33
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 522
+Disk writes: 9
+Time is 28
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 35
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 1566
+Disk writes: 9
+Time is 30
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 30
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 52400
+Disk writes: 12
+Time is 270
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 59
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 522
+Disk writes: 10
+Time is 32
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 40
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 1566
+Disk writes: 12
+Time is 40
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 38
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 52400
+Disk writes: 12
+Time is 292
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 52
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 522
+Disk writes: 10
+Time is 23
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 27
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 1566
+Disk writes: 12
+Time is 31
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 42
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 52400
+Disk writes: 12
+Time is 305
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 44
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 522
+Disk writes: 10
+Time is 19
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 32
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 1566
+Disk writes: 12
+Time is 32
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 33
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 52400
+Disk writes: 12
+Time is 306
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 52
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 522
+Disk writes: 10
+Time is 35
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 37
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 1566
+Disk writes: 12
+Time is 46
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 32
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 52400
+Disk writes: 12
+Time is 267
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 81
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 522
+Disk writes: 10
+Time is 36
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 44
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 1566
+Disk writes: 12
+Time is 55
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 42
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 52400
+Disk writes: 12
+Time is 348
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 522
+Disk writes: 12
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 523
+Disk writes: 12
+Time is 46
+Time is 137
+Time is 160
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 523
+Disk writes: 12
+Time is 223
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 512
+Disk writes: 0
+Time is 23
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 193
+Disk writes: 10
+Time is 324
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 185
+Disk writes: 0
+Time is 32
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 6
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 329
+Disk writes: 12
+Time is 236
+Time is 464
+Time is 236
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 488
+Disk writes: 12
+Time is 88
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 84
+Disk writes: 0
+Time is 9
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 1554
+Disk writes: 12
+Time is 153
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 1556
+Disk writes: 12
+Time is 138
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 6
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 1566
+Disk writes: 12
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 412
+Disk writes: 12
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 116
+Disk writes: 12
+Time is 68
+Time is 61
+Time is 141
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 51557
+Disk writes: 12
+Time is 1143
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 46074
+Disk writes: 12
+Time is 1137
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 45912
+Disk writes: 12
+Time is 1140
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 45756
+Disk writes: 12
+Time is 1161
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 69
+Disk writes: 0
+Time is 11
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 223
+Disk writes: 0
+Time is 7
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 522
+Disk writes: 12
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 330
+Disk writes: 12
+Time is 56
+Time is 49
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 467
+Disk writes: 10
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 522
+Disk writes: 10
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 521
+Disk writes: 10
+Time is 50
+Time is 56
+Time is 52
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 1560
+Disk writes: 12
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 1558
+Disk writes: 12
+Time is 90
+Time is 95
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 1554
+Disk writes: 12
+Time is 103
+Sorting input.bin of size 24576
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Sorting input.bin of size 24576
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 8
+Time is 6
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 277
+Disk writes: 0
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 176
+Disk writes: 0
+Time is 10
+Time is 11
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 91
+Disk writes: 12
+Time is 72
+Sorting input.bin of size 819200
+Block size: 4096
+Disk reads: 295
+Disk writes: 0
+Sorting input.bin of size 425984
+Block size: 4096
+Disk reads: 2040
+Disk writes: 0
+Time is 20
+Time is 60
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 15
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 4201
+Disk writes: 12
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 929
+Disk writes: 9
+Time is 144
+Time is 308
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 6
+Time is 6
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 522
+Disk writes: 10
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 522
+Disk writes: 10
+Time is 57
+Time is 60
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 8
+Time is 6
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 9
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 9
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 67
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 8
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 1
+Disk writes: 0
+Time is 17
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 9878
+Disk writes: 12
+Time is 432
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 8326
+Disk writes: 12
+Time is 458
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 2486
+Disk writes: 0
+Time is 77
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 310
+Disk writes: 0
+Time is 18
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 89
+Disk writes: 10
+Time is 57
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 194
+Disk writes: 0
+Time is 14
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 75
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 9
+Disk writes: 0
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 1564
+Disk writes: 12
+Time is 10
+Time is 94
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 1050
+Disk writes: 12
+Time is 66
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 927
+Disk writes: 12
+Time is 70
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 51672
+Disk writes: 12
+Time is 1032
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 1034
+Disk writes: 0
+Time is 19
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 44487
+Disk writes: 12
+Time is 1080
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 77
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 26
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 526
+Disk writes: 0
+Time is 33
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 9
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 28924
+Disk writes: 12
+Time is 955
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 14
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 13287
+Disk writes: 12
+Time is 302
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 284
+Disk writes: 0
+Time is 18
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 243
+Disk writes: 0
+Time is 12
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 21
+Disk writes: 10
+Time is 43
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 53
+Disk writes: 0
+Time is 9
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 56
+Disk writes: 0
+Time is 7
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 7
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 659
+Disk writes: 12
+Time is 76
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 13
+Sorting input.bin of size 368640
+Block size: 4096
+Disk reads: 381
+Disk writes: 0
+Time is 31
+Sorting input.bin of size 368640
+Block size: 4096
+Disk reads: 8531
+Disk writes: 99
+Time is 349
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 24
+Disk writes: 0
+Time is 11
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 70
+Disk writes: 0
+Time is 10
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 545
+Disk writes: 12
+Time is 127
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 736
+Disk writes: 12
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 305
+Disk writes: 12
+Time is 137
+Time is 1761938708877
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 522
+Disk writes: 10
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 521
+Disk writes: 10
+Time is 1761938709061
+Time is 77
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 348
+Disk writes: 12
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 91
+Time is 1761938709222
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 1558
+Disk writes: 12
+Time is 114
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 883
+Disk writes: 12
+Time is 1761938709384
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 523
+Disk writes: 12
+Time is 74
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 310
+Disk writes: 12
+Time is 1761938709494
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 16
+Sorting input.bin of size 139264
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 10
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 12
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 376
+Disk writes: 12
+Time is 142
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 165
+Disk writes: 0
+Time is 1761938709656
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 8
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 14
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 556
+Disk writes: 12
+Time is 93
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 5
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 14
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 11
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 8
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 389
+Disk writes: 0
+Time is 11
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 10672
+Disk writes: 12
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 2
+Disk writes: 0
+Time is 383
+Time is 13
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 731
+Disk writes: 12
+Time is 1761938710154
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 619
+Disk writes: 10
+Time is 1761938710367
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 11
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 580
+Disk writes: 12
+Time is 1761938710503
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 1510
+Disk writes: 10
+Time is 317
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 1560
+Disk writes: 12
+Time is 97
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 943
+Disk writes: 12
+Time is 1761938710646
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 266
+Disk writes: 0
+Time is 12
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 1566
+Disk writes: 12
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 1566
+Disk writes: 12
+Time is 104
+Time is 1761938710788
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 16
+Sorting input.bin of size 278528
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 10
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 135
+Disk writes: 0
+Time is 1761938710985
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 306
+Disk writes: 0
+Time is 20
+Sorting input.bin of size 73728
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 11
+Sorting input.bin of size 32768
+Block size: 4096
+Disk reads: 688
+Disk writes: 12
+Time is 131
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 6918
+Disk writes: 12
+Time is 403
+Sorting input.bin of size 81920
+Block size: 4096
+Disk reads: 6095
+Disk writes: 12
+Time is 449
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 12
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 253
+Disk writes: 109
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 522
+Disk writes: 109
+Time is 89
+Time is 104
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 775
+Disk writes: 0
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 902
+Disk writes: 0
+Time is 53
+Time is 47
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 6383
+Disk writes: 12
+Time is 481
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 8857
+Disk writes: 0
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 11120
+Disk writes: 0
+Time is 344
+Time is 342
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 1566
+Disk writes: 12
+Time is 88
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 1156
+Disk writes: 12
+Time is 99
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 171
+Disk writes: 0
+Time is 22
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 17
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 522
+Disk writes: 12
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 491
+Disk writes: 12
+Time is 87
+Time is 95
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 187
+Disk writes: 0
+Time is 16
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 604
+Disk writes: 12
+Time is 105
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 522
+Disk writes: 12
+Time is 86
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 394
+Disk writes: 10
+Time is 76
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 295
+Disk writes: 12
+Time is 89
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 1562
+Disk writes: 11
+Time is 82
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 382
+Disk writes: 0
+Time is 14
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 127
+Disk writes: 12
+Time is 90
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 609
+Disk writes: 0
+Time is 17
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 522
+Disk writes: 10
+Time is 66
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 83
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 9
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 223
+Disk writes: 0
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 775
+Disk writes: 12
+Time is 14
+Time is 77
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 79
+Time is 80
+Sorting input.bin of size 147456
+Block size: 4096
+Disk reads: 45302
+Disk writes: 12
+Time is 1159
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 21
+Disk writes: 0
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 37747
+Disk writes: 12
+Time is 1154
+Time is 38
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 92
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 20
+Sorting input.bin of size 163840
+Block size: 4096
+Disk reads: 1
+Disk writes: 0
+Time is 28
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 1
+Disk writes: 0
+Time is 9
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 8
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 5134
+Disk writes: 12
+Time is 395
+Sorting input.bin of size 163840
+Block size: 4096
+Disk reads: 1
+Disk writes: 0
+Time is 17
+Sorting input.bin of size 90112
+Block size: 4096
+Disk reads: 4355
+Disk writes: 12
+Time is 485
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 520
+Disk writes: 12
+Time is 104
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 410
+Disk writes: 0
+Time is 27
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 6
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 352
+Disk writes: 12
+Time is 322
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 319
+Disk writes: 10
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 619
+Disk writes: 10
+Time is 84
+Time is 99
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 8
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 267
+Disk writes: 0
+Time is 13
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 82
+Disk writes: 0
+Sorting input.bin of size 24576
+Block size: 4096
+Disk reads: 9136
+Disk writes: 12
+Time is 9
+Time is 308
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 4
+Time is 8
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 5573
+Disk writes: 12
+Time is 316
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 171
+Disk writes: 12
+Time is 78
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 18
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 565
+Disk writes: 0
+Time is 32
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 6
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 10
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 7597
+Disk writes: 12
+Time is 366
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 160
+Disk writes: 0
+Time is 14
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 258
+Disk writes: 12
+Time is 94
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 1562
+Disk writes: 12
+Time is 101
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 150
+Disk writes: 0
+Time is 14
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 224
+Disk writes: 0
+Time is 10
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 429
+Disk writes: 12
+Time is 77
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 334
+Disk writes: 10
+Time is 55
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 523
+Disk writes: 12
+Time is 98
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 522
+Disk writes: 12
+Time is 110
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 326
+Disk writes: 0
+Time is 30
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 35
+Disk writes: 0
+Time is 8
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 193
+Disk writes: 0
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 443
+Disk writes: 12
+Time is 12
+Time is 63
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 523
+Disk writes: 12
+Time is 80
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 100
+Sorting input.bin of size 393216
+Block size: 4096
+Disk reads: 1328
+Disk writes: 0
+Time is 46
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Sorting input.bin of size 90112
+Block size: 4096
+Disk reads: 813
+Disk writes: 0
+Time is 5
+Time is 28
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 11
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 13
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 8
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 2160
+Disk writes: 12
+Time is 239
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 3430
+Disk writes: 0
+Time is 96
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 51500
+Disk writes: 12
+Time is 1353
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 783
+Disk writes: 0
+Time is 23
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 51576
+Disk writes: 12
+Time is 1390
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 34
+Disk writes: 12
+Time is 79
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 855
+Disk writes: 12
+Time is 100
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 11
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 7
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 9
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 1642
+Disk writes: 12
+Time is 300
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 79
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 16
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 9
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 660
+Disk writes: 12
+Time is 94
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 3189
+Disk writes: 12
+Time is 256
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 621
+Disk writes: 12
+Time is 96
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 7
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 71
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 4
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 622
+Disk writes: 12
+Time is 79
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 5000
+Disk writes: 12
+Time is 555
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 10899
+Disk writes: 0
+Time is 229
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 97
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 522
+Disk writes: 10
+Time is 71
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 97
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 188
+Disk writes: 10
+Time is 60
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 512
+Disk writes: 0
+Time is 131
+Time is 54
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 520
+Disk writes: 10
+Time is 79
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 368
+Disk writes: 10
+Time is 82
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 140
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 259
+Disk writes: 12
+Time is 100
+Sorting input.bin of size 8192
+Block size: 4096
+Disk reads: 1551
+Disk writes: 10
+Time is 127
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 1557
+Disk writes: 12
+Time is 129
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 521
+Disk writes: 12
+Time is 96
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 418
+Disk writes: 12
+Time is 93
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 52200
+Disk writes: 12
+Time is 1492
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 52215
+Disk writes: 12
+Time is 1518
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 121
+Disk writes: 0
+Time is 11
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 12
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 437
+Disk writes: 12
+Time is 111
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 363
+Disk writes: 12
+Time is 83
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 241
+Disk writes: 10
+Time is 75
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 141
+Disk writes: 0
+Time is 18
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 81
+Disk writes: 10
+Time is 78
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 454
+Disk writes: 0
+Time is 31
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 106
+Disk writes: 12
+Time is 108
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 51815
+Disk writes: 12
+Time is 1699
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 691
+Disk writes: 8
+Time is 285
+Sorting input.bin of size 8192
+Block size: 4096
+Disk reads: 1048
+Disk writes: 12
+Time is 51
+Sorting input.bin of size 8192
+Block size: 4096
+Disk reads: 1044
+Disk writes: 11
+Time is 38
+Sorting input.bin of size 8192
+Block size: 4096
+Disk reads: 1048
+Disk writes: 12
+Time is 48
+Sorting input.bin of size 24576
+Block size: 4096
+Disk reads: 3126
+Disk writes: 15
+Time is 55
+Sorting input.bin of size 24576
+Block size: 4096
+Disk reads: 1120
+Disk writes: 0
+Time is 18
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 256
+Disk writes: 0
+Time is 7
+Sorting input.bin of size 8192
+Block size: 4096
+Disk reads: 955
+Disk writes: 12
+Time is 51
+Sorting input.bin of size 8192
+Block size: 4096
+Disk reads: 886
+Disk writes: 0
+Time is 14
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 10
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 963
+Disk writes: 0
+Time is 29
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 4
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 7
+Sorting input.bin of size 819200
+Block size: 4096
+Disk reads: 10317
+Disk writes: 12
+Time is 244
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 2
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 522
+Disk writes: 10
+Time is 83
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 523
+Disk writes: 12
+Time is 70
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 115
+Disk writes: 12
+Time is 73
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 2
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 3
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 2
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 522
+Disk writes: 10
+Time is 67
+Sorting input.bin of size 8192
+Block size: 4096
+Disk reads: 1045
+Disk writes: 12
+Time is 62
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 565
+Disk writes: 12
+Time is 116
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 2
+Sorting input.bin of size 8192
+Block size: 4096
+Disk reads: 545
+Disk writes: 0
+Time is 20
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 543
+Disk writes: 12
+Time is 72
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 1566
+Disk writes: 12
+Time is 71
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 1566
+Disk writes: 12
+Time is 81
+Sorting input.bin of size 8192
+Block size: 4096
+Disk reads: 602
+Disk writes: 9
+Time is 53
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 1696
+Disk writes: 109
+Time is 123
+Sorting input.bin of size 819200
+Block size: 4096
+Disk reads: 9349
+Disk writes: 0
+Time is 112
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 65
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 3
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 522
+Disk writes: 10
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 465
+Disk writes: 10
+Time is 37
+Time is 37
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 5
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 5
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 1563
+Disk writes: 9
+Time is 57
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 1276
+Disk writes: 12
+Time is 68
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 886
+Disk writes: 0
+Time is 14
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 19
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 5
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 67
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 717
+Disk writes: 9
+Time is 63
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 18322
+Disk writes: 12
+Time is 651
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 972
+Disk writes: 12
+Time is 161
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 1566
+Disk writes: 12
+Time is 102
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 51
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 4
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 510
+Disk writes: 12
+Time is 60
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 296
+Disk writes: 12
+Time is 46
+Sorting input.bin of size 24576
+Block size: 4096
+Disk reads: 176
+Disk writes: 0
+Time is 5
+Sorting input.bin of size 24576
+Block size: 4096
+Disk reads: 1081
+Disk writes: 12
+Time is 45
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 768
+Disk writes: 0
+Time is 22
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 606
+Disk writes: 0
+Time is 7
+Sorting input.bin of size 24576
+Block size: 4096
+Disk reads: 192
+Disk writes: 0
+Time is 5
+Sorting input.bin of size 24576
+Block size: 4096
+Disk reads: 624
+Disk writes: 0
+Time is 9
+Sorting input.bin of size 24576
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 3
+Sorting input.bin of size 24576
+Block size: 4096
+Disk reads: 459
+Disk writes: 0
+Time is 11
+Sorting input.bin of size 24576
+Block size: 4096
+Disk reads: 274
+Disk writes: 12
+Time is 48
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 3
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 629
+Disk writes: 0
+Time is 9
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 158
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 521
+Disk writes: 9
+Time is 238
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 102
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 1563
+Disk writes: 9
+Time is 81
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 68
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 52400
+Disk writes: 12
+Time is 1008
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 1
+Disk writes: 12
+Time is 116
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 889
+Disk writes: 0
+Time is 24
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 13535
+Disk writes: 109
+Time is 605
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 1
+Disk writes: 12
+Time is 86
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 295
+Disk writes: 0
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 312
+Disk writes: 10
+Time is 15
+Time is 62
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 291
+Disk writes: 12
+Time is 72
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 1
+Disk writes: 12
+Time is 80
+Sorting input.bin of size 8192
+Block size: 4096
+Disk reads: 51448
+Disk writes: 12
+Time is 914
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 9
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 5
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 1
+Disk writes: 12
+Time is 1041
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 88
+Disk writes: 0
+Time is 28
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 512
+Disk writes: 0
+Time is 133
+Time is 29
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 512
+Disk writes: 0
+Time is 32
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 187
+Disk writes: 0
+Time is 12
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 523
+Disk writes: 10
+Time is 75
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 350
+Disk writes: 0
+Time is 18
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 9
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 50325
+Disk writes: 0
+Time is 1165
+Sorting input.bin of size 212992
+Block size: 4096
+Disk reads: 51960
+Disk writes: 12
+Time is 1386
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 86
+Sorting input.bin of size 57344
+Block size: 4096
+Disk reads: 46746
+Disk writes: 12
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 51432
+Disk writes: 12
+Time is 1075
+Time is 1031
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 115
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 522
+Disk writes: 10
+Time is 79
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 89
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 1566
+Disk writes: 12
+Time is 131
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 93
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 27
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 12
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 3079
+Disk writes: 12
+Time is 322
+Sorting input.bin of size 64
+Block size: 4096
+Disk reads: 8
+Disk writes: 0
+Time is 5
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 12567
+Disk writes: 12
+Time is 434
+Sorting input.bin of size 64
+Block size: 4096
+Disk reads: 8
+Disk writes: 0
+Time is 4
+Sorting input.bin of size 64
+Block size: 4096
+Disk reads: 19
+Disk writes: 10
+Time is 48
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 514
+Disk writes: 2
+Time is 25
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 514
+Disk writes: 2
+Time is 27
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 51441
+Disk writes: 12
+Time is 1315
+Sorting input.bin of size 106496
+Block size: 4096
+Disk reads: 51464
+Disk writes: 12
+Time is 1376
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 514
+Disk writes: 2
+Time is 33
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 8186
+Disk writes: 101
+Time is 208
+Sorting input.bin of size 36864
+Block size: 4096
+Disk reads: 54908
+Disk writes: 12
+Time is 1274
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 585
+Disk writes: 17
+Time is 27
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 601
+Disk writes: 12
+Time is 37
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 1755
+Disk writes: 33
+Time is 34
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 601
+Disk writes: 12
+Time is 35
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 60100
+Disk writes: 12
+Time is 579
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 512
+Disk writes: 0
+Time is 10
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 512
+Disk writes: 0
+Time is 7
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 512
+Disk writes: 0
+Time is 5
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 1536
+Disk writes: 0
+Time is 12
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 512
+Disk writes: 0
+Time is 4
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 51200
+Disk writes: 0
+Time is 220
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 73
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 522
+Disk writes: 10
+Time is 48
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 63
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 1566
+Disk writes: 12
+Time is 67
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 47
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 52400
+Disk writes: 12
+Time is 905
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 82
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 522
+Disk writes: 10
+Time is 66
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 75
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 1566
+Disk writes: 12
+Time is 88
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 71
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 52400
+Disk writes: 12
+Time is 1274
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 82
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 521
+Disk writes: 9
+Time is 61
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 71
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 1563
+Disk writes: 9
+Time is 91
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 77
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 52400
+Disk writes: 12
+Time is 1322
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 68
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 49
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 52
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 52400
+Disk writes: 12
+Time is 1195
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 1
+Time is 94
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 522
+Disk writes: 2
+Time is 68
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 1
+Time is 87
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 1566
+Disk writes: 4
+Time is 101
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 1
+Time is 66
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 52400
+Disk writes: 1
+Time is 1277
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 512
+Disk writes: 12
+Time is 93
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 513
+Disk writes: 10
+Time is 76
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 512
+Disk writes: 12
+Time is 92
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 1539
+Disk writes: 12
+Time is 115
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 512
+Disk writes: 12
+Time is 81
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 51200
+Disk writes: 12
+Time is 1279
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 522
+Disk writes: 10
+Time is 73
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 1566
+Disk writes: 12
+Time is 132
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 84
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 52400
+Disk writes: 12
+Time is 1015
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 35
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 522
+Disk writes: 10
+Time is 30
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 31
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 1566
+Disk writes: 12
+Time is 28
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 27
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 52400
+Disk writes: 12
+Time is 260
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 40
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 522
+Disk writes: 10
+Time is 24
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 30
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 1566
+Disk writes: 12
+Time is 42
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 33
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 52400
+Disk writes: 12
+Time is 265
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 29
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 522
+Disk writes: 10
+Time is 25
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 27
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 1566
+Disk writes: 12
+Time is 30
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 30
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 52400
+Disk writes: 12
+Time is 294
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 43
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 1
+Disk writes: 10
+Time is 28
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 34
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 1
+Disk writes: 12
+Time is 34
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 30
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 52400
+Disk writes: 12
+Time is 279
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 33
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 521
+Disk writes: 10
+Time is 20
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 25
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 1563
+Disk writes: 12
+Time is 26
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 30
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 52400
+Disk writes: 12
+Time is 251
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 0
+Time is 42
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 522
+Disk writes: 1
+Time is 22
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 0
+Time is 27
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 1566
+Disk writes: 3
+Time is 29
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 0
+Time is 28
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 52400
+Disk writes: 0
+Time is 266
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 512
+Disk writes: 12
+Time is 35
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 513
+Disk writes: 10
+Time is 28
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 512
+Disk writes: 12
+Time is 31
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 1539
+Disk writes: 12
+Time is 30
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 512
+Disk writes: 12
+Time is 27
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 51200
+Disk writes: 12
+Time is 266
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 43
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 32
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 33
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 1572
+Disk writes: 12
+Time is 41
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 33
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 52400
+Disk writes: 12
+Time is 271
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 31
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 522
+Disk writes: 9
+Time is 22
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 25
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 1566
+Disk writes: 9
+Time is 29
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 32
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 52400
+Disk writes: 12
+Time is 256
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 12
+Disk writes: 12
+Time is 121
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 10
+Disk writes: 10
+Time is 70
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 12
+Disk writes: 12
+Time is 73
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 30
+Disk writes: 12
+Time is 105
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 12
+Disk writes: 12
+Time is 88
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 1200
+Disk writes: 12
+Time is 1207
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 57
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 522
+Disk writes: 10
+Time is 29
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 40
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 1548
+Disk writes: 12
+Time is 37
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 36
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 51284
+Disk writes: 12
+Time is 371
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 15
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 522
+Disk writes: 10
+Time is 7
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 8
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 1566
+Disk writes: 12
+Time is 14
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 10
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 52400
+Disk writes: 12
+Time is 234
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 15
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 522
+Disk writes: 10
+Time is 7
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 6
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 1566
+Disk writes: 12
+Time is 19
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 524
+Disk writes: 12
+Time is 8
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 52400
+Disk writes: 12
+Time is 238
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 25
+Disk writes: 6144
+Time is 286
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 20
+Disk writes: 4609
+Time is 155
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 25
+Disk writes: 6144
+Time is 165
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 20
+Disk writes: 13825
+Time is 402
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 25
+Disk writes: 6144
+Time is 149
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 25
+Disk writes: 96
+Time is 29
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 20
+Disk writes: 21
+Time is 16
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 25
+Disk writes: 96
+Time is 12
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 20
+Disk writes: 21
+Time is 15
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 25
+Disk writes: 96
+Time is 16
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 25
+Disk writes: 107
+Time is 122
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 25
+Disk writes: 96
+Time is 44
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 20
+Disk writes: 21
+Time is 15
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 25
+Disk writes: 96
+Time is 8
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 20
+Disk writes: 21
+Time is 10
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 25
+Disk writes: 96
+Time is 11
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 25
+Disk writes: 107
+Time is 102
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 25
+Disk writes: 96
+Time is 28
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 20
+Disk writes: 21
+Time is 15
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 25
+Disk writes: 96
+Time is 11
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 20
+Disk writes: 21
+Time is 9
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 25
+Disk writes: 96
+Time is 13
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 25
+Disk writes: 107
+Time is 98
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 25
+Disk writes: 96
+Time is 18
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 20
+Disk writes: 21
+Time is 12
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 25
+Disk writes: 96
+Time is 7
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 20
+Disk writes: 21
+Time is 9
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 25
+Disk writes: 96
+Time is 7
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 25
+Disk writes: 118
+Time is 94
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 25
+Disk writes: 6144
+Time is 233
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 20
+Disk writes: 4609
+Time is 111
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 25
+Disk writes: 6144
+Time is 192
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 20
+Disk writes: 13825
+Time is 315
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 25
+Disk writes: 6144
+Time is 142
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 25
+Disk writes: 96
+Time is 25
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 20
+Disk writes: 21
+Time is 20
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 25
+Disk writes: 96
+Time is 9
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 20
+Disk writes: 21
+Time is 9
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 25
+Disk writes: 96
+Time is 7
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 25
+Disk writes: 107
+Time is 107
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 25
+Disk writes: 96
+Time is 26
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 20
+Disk writes: 21
+Time is 17
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 25
+Disk writes: 96
+Time is 10
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 20
+Disk writes: 21
+Time is 10
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 25
+Disk writes: 96
+Time is 9
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 25
+Disk writes: 107
+Time is 106
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 6
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 3
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 1
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 1
+Disk writes: 0
+Time is 7
+Sorting input.bin of size 0
+Block size: 4096
+Disk reads: 0
+Disk writes: 0
+Time is 3
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 25
+Disk writes: 96
+Time is 24
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 20
+Disk writes: 21
+Time is 20
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 25
+Disk writes: 96
+Time is 6
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 20
+Disk writes: 21
+Time is 12
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 25
+Disk writes: 96
+Time is 9
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 25
+Disk writes: 107
+Time is 91
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 13
+Disk writes: 96
+Time is 18
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 11
+Disk writes: 21
+Time is 10
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 13
+Disk writes: 96
+Time is 7
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 11
+Disk writes: 22
+Time is 6
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 13
+Disk writes: 96
+Time is 10
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 13
+Disk writes: 542
+Time is 75
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 5
+Disk writes: 793
+Time is 18
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 5
+Disk writes: 29
+Time is 18
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 5
+Disk writes: 778
+Time is 8
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 5
+Disk writes: 30
+Time is 7
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 5
+Disk writes: 783
+Time is 13
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 5
+Disk writes: 888
+Time is 47
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 9
+Disk writes: 883
+Time is 30
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 9
+Disk writes: 79
+Time is 13
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 9
+Disk writes: 883
+Time is 16
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 9
+Disk writes: 80
+Time is 10
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 9
+Disk writes: 871
+Time is 16
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 9
+Disk writes: 1024
+Time is 52
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 9
+Disk writes: 786
+Time is 26
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 9
+Disk writes: 29
+Time is 13
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 9
+Disk writes: 791
+Time is 11
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 9
+Disk writes: 32
+Time is 9
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 9
+Disk writes: 775
+Time is 11
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 9
+Disk writes: 888
+Time is 38
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 8
+Disk writes: 769
+Time is 25
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 8
+Disk writes: 29
+Time is 12
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 8
+Disk writes: 793
+Time is 10
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 8
+Disk writes: 32
+Time is 9
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 8
+Disk writes: 779
+Time is 11
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 8
+Disk writes: 888
+Time is 38
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 8
+Disk writes: 795
+Time is 24
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 8
+Disk writes: 29
+Time is 13
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 8
+Disk writes: 768
+Time is 15
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 8
+Disk writes: 32
+Time is 9
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 8
+Disk writes: 768
+Time is 15
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 8
+Disk writes: 888
+Time is 37
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 8
+Disk writes: 784
+Time is 33
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 8
+Disk writes: 29
+Time is 13
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 8
+Disk writes: 778
+Time is 16
+Sorting input.bin of size 12288
+Block size: 4096
+Disk reads: 8
+Disk writes: 32
+Time is 7
+Sorting input.bin of size 4096
+Block size: 4096
+Disk reads: 8
+Disk writes: 767
+Time is 15
+Sorting input.bin of size 409600
+Block size: 4096
+Disk reads: 8
+Disk writes: 888
+Time is 43

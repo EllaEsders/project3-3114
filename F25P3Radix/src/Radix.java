@@ -5,39 +5,31 @@ import java.io.*;
 // The Radix Sort implementation
 // -------------------------------------------------------------------------
 /**
- *
  * @author ellae and Madelync05
  * @version 1
  */
-public class Radix {
+public class Radix
+{
+    /**
+     * The memory pool is a temporary working memory where blocks of data are loaded
+     * onto and many records can be sorted instead of processing them one at a
+     * time. 
+     */
     private byte[] memoryPool = new byte[900000];
     /**
-     * creates a byte buffer object to act as the memory pool?
+     * Reads a large block of bytes in the memory pool
      */
     private ByteBuffer buffer = ByteBuffer.wrap(memoryPool);
-    /**
-     * the file to be sorted
-     */
+
     private RandomAccessFile file;
-    /**
-     * the print writer to write in the stats file
-     * (maybe change name to stats or something)
-     */
+    private RandomAccessFile fileA;
+    private RandomAccessFile fileB;
+
     private PrintWriter writer;
-    /**
-     * maybe allowed maybe not ints
-     */
-// private int sizeOfBytes=0;
-// private int sizeOfBlocks=0;
-    private int numberOfBlocks = 0;
+
     private int diskReads = 0;
     private int diskWrites = 0;
-    
-//    private static final int SIZE_OF_BLOCKS = 4096;
-//    private static final int SIZE_OF_RECORD = 8;
-//    private static final int NUM_OF_RECS_PER_BLOCK = SIZE_OF_BLOCKS/SIZE_OF_RECORD;
 
-// private int timeTook=0; //no clue how to implement this
     /**
      * Create a new Radix object.
      * 
@@ -45,148 +37,152 @@ public class Radix {
      *            The RandomAccessFile to be sorted
      * @param s
      *            The stats PrintWriter
-     *
      * @throws IOException
      */
-    public Radix(RandomAccessFile theFile, PrintWriter s) throws IOException {
+    public Radix(RandomAccessFile theFile, PrintWriter s)
+        throws IOException
+    {
         file = theFile;
         writer = s;
         radixSort();
     }
 
 
-    private void radixSort() throws IOException {
-        long fileSize = file.length();
-        int totalInts = (int)(fileSize / 4); //long
-        int numPairs = totalInts / 2;
+    private void radixSort()
+        throws IOException
+    {
+        File tempFile = new File("tempfile.bin");
 
-        int[] keys = new int[numPairs];
-        int[] values = new int[numPairs];
-        diskReads++;
-        file.seek(0);
-        for (int i = 0; i < numPairs; i++) {
-            keys[i] = file.readInt();
-            values[i] = file.readInt();
-        }
-        radixSortKeys(keys, values);
-        file.seek(0);
-        diskWrites++;
-        for (int i = 0; i < numPairs; i++) {
-            file.writeInt(keys[i]);
-            file.writeInt(values[i]);
+        fileA = file;
+        fileB = new RandomAccessFile(tempFile, "rw");
+
+        long numRecords = file.length() / 8;
+        int radix = 256;
+        
+        for (int pass = 0; pass < 4; pass++)
+        {
+            countingPass(fileA, fileB, numRecords, pass, radix);
+            swapFiles();
+            fileB.setLength(0);
         }
 
-        writer.println("Memory Blocks: " + numPairs);
+        if (fileA != file)
+        {
+            copyFile(fileA, file);
+        }
+
+        writer.println("Block size: " + 4096);
         writer.println("Disk reads: " + diskReads);
         writer.println("Disk writes: " + diskWrites);
         writer.flush();
-    }
-    /**
-     * helper method to sort the arrays
-     * @param keys an int array of keys //will need to be buffer?
-     * @param values an int array of the values
-     */
-    private void radixSortKeys(int[] keys, int[] values) {
-        int[] outKeys = new int[keys.length];
-        int[] outVals = new int[keys.length];
-        int max = getMax(keys);
-        for (int x = 1; max / x > 0; x *= 10) {
-            countSort(keys, values, outKeys, outVals, x);
-        }
-    }
-    /**
-     * sorts the count array in the radix sort
-     * @param keys array of input keys
-     * @param values array of input values
-     * @param outputKeys array of int keys for output
-     * @param outputValues array of output values
-     */
-    private void countSort(
-        int[] keys,
-        int[] values,
-        int[] outputKeys,
-        int[] outputValues,
-        int x) {
-        int n = keys.length;
-        int[] count = new int[10];
 
-        for (int i = 0; i < n; i++)
-            count[(keys[i] / x) % 10]++;
-
-        for (int i = 1; i < 10; i++)
-            count[i] += count[i - 1];
-
-        for (int i = n - 1; i >= 0; i--) {
-            int j = (keys[i] / x) % 10;
-            outputKeys[count[j] - 1] = keys[i];
-            outputValues[count[j] - 1] = values[i];
-            count[j]--;
-        }
-
-        System.arraycopy(outputKeys, 0, keys, 0, n);
-        System.arraycopy(outputValues, 0, values, 0, n);
+        fileB.close();
+        tempFile.delete();
     }
-    /**
-     * gets the max value in the array
-     * @param arr array to be searched
-     * @return int of the max value
-     */
-    private int getMax(int[] arr) {
-        int max = arr[0];
-        for (int val : arr) {
-            if (val > max) {
-                max = val;
-            }
-        }
-        return max;
-    }
-    
-    /**
-     * Helper method to read one block into the memoryPool //byte
-     */
-    private int readBlock(RandomAccessFile f, long position) throws IOException
+
+
+    private void swapFiles()
     {
-        f.seek(position);
-        int bytesRead = f.read(memoryPool, 0, 4096);
-        if (bytesRead > 0)
+        RandomAccessFile temp = fileA;
+        fileA = fileB;
+        fileB = temp;
+    }
+
+
+    private void countingPass(
+        RandomAccessFile input,
+        RandomAccessFile output,
+        long numRecords,
+        int passIndex,
+        int radix)
+        throws IOException
+    {
+        int[] count = new int[radix];
+
+        input.seek(0);
+        int bytesRead;
+        while ((bytesRead = input.read(memoryPool)) != -1)
         {
             diskReads++;
+            buffer.clear();
+            buffer.limit(bytesRead);
+            while (buffer.remaining() >= 8)
+            {
+                int key = buffer.getInt();
+                buffer.getInt();
+                int digit = (key >>> (passIndex * 8)) & 0xFF;
+                count[digit]++;
+            }
         }
-        return bytesRead;
+
+        long[] bytePos = new long[radix];
+        long total = 0;
+        for (int i = 0; i < radix; i++)
+        {
+            bytePos[i] = total;
+            total += (long)count[i] * 8;
+        }
+
+        input.seek(0);
+        output.setLength(0);
+
+        int binBufferSize = 8192;
+        byte[][] binBuf = new byte[radix][binBufferSize];
+        int[] fill = new int[radix];
+
+        while ((bytesRead = input.read(memoryPool)) != -1)
+        {
+            diskReads++;
+            buffer.clear();
+            buffer.limit(bytesRead);
+            while (buffer.remaining() >= 8)
+            {
+                int key = buffer.getInt();
+                int val = buffer.getInt();
+                int digit = (key >>> (passIndex * 8)) & 0xFF;
+
+                ByteBuffer bin = ByteBuffer.wrap(binBuf[digit]);
+                bin.position(fill[digit]);
+                bin.putInt(key);
+                bin.putInt(val);
+                fill[digit] += 8;
+
+                if (fill[digit] >= binBufferSize)
+                {
+                    output.seek(bytePos[digit]);
+                    output.write(binBuf[digit], 0, fill[digit]);
+                    diskWrites++;
+                    bytePos[digit] += fill[digit];
+                    fill[digit] = 0;
+                }
+            }
+        }
+
+        for (int d = 0; d < radix; d++)
+        {
+            if (fill[d] > 0)
+            {
+                output.seek(bytePos[d]);
+                output.write(binBuf[d], 0, fill[d]);
+                diskWrites++;
+            }
+        }
     }
-    
-    /**
-     * Helper method that writes one block into file from memoryPool
-     */
-    private void writeBlock(RandomAccessFile f, long position) throws IOException
+
+
+    private void copyFile(RandomAccessFile source, RandomAccessFile destination)
+        throws IOException
     {
-        f.seek(position);
-        f.write(memoryPool, 0, 4096);
-        diskWrites++;
+        source.seek(0);
+        destination.setLength(0);
+        int bytesRead;
+
+        while ((bytesRead = source.read(memoryPool)) != -1)
+        {
+            diskReads++;
+            destination.write(memoryPool, 0, bytesRead);
+            diskWrites++;
+        }
     }
-    
-    /**
-     * Get the key at the index of the record in the memoryPool
-     */
-    private int getKey(int recordIndex)
-    {
-        return buffer.getInt(recordIndex * 8);
-    }
-    
-    /**
-     * Gets the value at the index of the record in the memoryPool
-     */
-    private int getValue(int recordIndex)
-    {
-        return buffer.getInt(recordIndex * 12);
-    }
-    
-    /**
-     * Set a record of the key and value pair at the index in the memoryPool
-     */
-    private void setRecord(int recordIndex, int key, int value)
-    {
-        buffer.putInt(recordIndex * 8, key);
-        buffer.putInt(recordIndex * 12, value); //8+4
-    }
+
 }
